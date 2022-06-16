@@ -11,5 +11,6 @@ public class One {
         System.out.println("Perimeter is = " + perimeter);
         System.out.println("Area is = " + area);
         scanner.close();
+        System.out.println("Git lesson almost complete");
     }
 }
