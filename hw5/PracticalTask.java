@@ -1,6 +1,5 @@
 package com.softserve.hometasks.hometask1.hw5;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class PracticalTask {
@@ -9,9 +8,9 @@ public class PracticalTask {
         int[] array = {1, -2, 3, -4, 5, -6, 7, -8, 9, -10};
 
         //the biggest of these numbers;
-        /*
         int max = array[0];
         int imax = 0;
+        int i = 0;
         while (i < array.length) {
             if (array[i] > max){
                 max = array[i];
@@ -20,7 +19,7 @@ public class PracticalTask {
             i++;
         }
         System.out.print("Maximum number = "+ max);
-        System.out.println(" is in " + (imax + 1) + " place");*/
+        System.out.println(" is in " + (imax + 1) + " place");
 
         //the sum of positive numbers in the array;
         /*int sum = 0;
@@ -29,9 +28,9 @@ public class PracticalTask {
                 sum += array[i];
             }
         }
-        System.out.println("Sum = " + sum);*/
+        System.out.println("Sum = " + sum);
 
-            //the amount of negative numbers in the array
+        //the amount of negative numbers in the array
         int amountP = 0;
         for (int a : array) {
             if (a > 0) {
@@ -51,7 +50,7 @@ public class PracticalTask {
 
         if (amountP > amountN) System.out.println("Amount of Positive numbers are bigger");
         else if (amountN > amountP) System.out.println("Amount of Negative numbers are bigger");
-        else System.out.println("Amount of Positive and Negative numbers are equal");
+        else System.out.println("Amount of Positive and Negative numbers are equal");*/
 
         //continue
         /*Scanner sc = new Scanner(System.in);
@@ -90,7 +89,16 @@ public class PracticalTask {
 
         System.out.println("Numbers = " + elements);
         System.out.println("Position of element with value 7 is " + index);*/
+        /*Employee one = new Employee("Alex",1, 100);
+        Employee two = new Employee("Ale",2, 200);
+        Employee three = new Employee("Alx",3, 400);
+        Employee four = new Employee("Aex",4, 500);
+        Employee five = new Employee("lex",5, 150);*/
 
+        /*String [] employees = {String.valueOf(one), String.valueOf(two), String.valueOf(three), String.valueOf(four), String.valueOf(five)};
+        Arrays.sort(Employee.depNumber);???
+        String elements = Arrays.toString(employees);
+        System.out.println(elements);*/
     }
 }
 
@@ -99,3 +107,41 @@ Create a class Employee with fields name, department number, salary. Create five
 all employees of a certain department (enter department number in the console);
 arrange workers by the field salary in descending order.
  */
+/*
+class Employee {
+    Scanner scanner = new Scanner(System.in);
+    String name;
+    int depNumber;
+    int salary;
+
+
+    public Employee(String name, int depNumber, int salary) {
+        this.name = name;
+        this.depNumber = depNumber;
+        this.salary = salary;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getDepNumber() {
+        return depNumber;
+    }
+
+    public void setDepNumber(int depNumber) {
+        this.depNumber = scanner.nextInt();
+    }
+
+    public int getSalary() {
+        return salary;
+    }
+
+    public void setSalary(int salary) {
+        this.salary = salary;
+    }
+}*/
