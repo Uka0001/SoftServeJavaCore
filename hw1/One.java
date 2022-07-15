@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.TestUka0001;
+package com.softserve.hometasks.hometask1.hw1;
 
 import java.util.Scanner;
 
