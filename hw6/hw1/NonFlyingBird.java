@@ -4,4 +4,12 @@ public class NonFlyingBird extends Bird {
     public boolean fly(){
         return false;
     }
+
+    @Override
+    public String toString() {
+        return "NonFlyingBird{" +
+                "feathers=" + feathers +
+                ", layEggs=" + layEggs +
+                '}';
+    }
 }

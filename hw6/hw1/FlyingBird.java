@@ -5,4 +5,11 @@ public class FlyingBird extends Bird {
         return true;
     }
 
+    @Override
+    public String toString() {
+        return "FlyingBird{" +
+                "feathers=" + feathers +
+                ", layEggs=" + layEggs +
+                '}';
+    }
 }
