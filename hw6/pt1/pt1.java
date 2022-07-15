@@ -10,38 +10,24 @@ In main method create array of Car’s objects. Add to
 
 import java.util.Arrays;
 
+import static java.lang.String.valueOf;
+
 public class pt1 {
     public static void main(String[] args) {
 
     Sedan one = new Sedan("Jeep", 180, 2008);
     Truck two = new Truck("MAN", 180, 2009);
 
-    String [] carObjects = {String.valueOf(one), String.valueOf(two)};
-        System.out.println(Arrays.toString(carObjects));
-
-        //приклад рішення зі стеку через стріми та лямбду
-        /*List<MyClass> list = Arrays.asList(obj, obj2);
-        List<Object> all = list.stream()
-                .map(o -> Arrays.asList(o.getId(), o.getAge(), o.getName()))
-                .flatMap(Collection::stream)
-                .collect(Collectors.toList());
-
-        all.forEach(element -> System.out.println(element));*/
+    Car[] carObjects = new Car[2];
+    carObjects[0] = one;
+    carObjects[1] = two;
+    System.out.println(valueOf(one));
+    System.out.println(two);
+    System.out.println(Arrays.toString(carObjects));
+    System.out.println(carObjects); //-only hash output
     }
 }
 
-class Truck extends Car{
 
-    public Truck(String model, int maxSpeed, int yearOfManufacture) {
-        super(model, maxSpeed, yearOfManufacture);
-    }
-}
-
-class Sedan extends Car{
-
-    public Sedan(String model, int maxSpeed, int yearOfManufacture) {
-        super(model, maxSpeed, yearOfManufacture);
-    }
-}
 
 

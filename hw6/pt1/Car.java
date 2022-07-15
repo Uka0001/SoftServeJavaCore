@@ -11,6 +11,15 @@ public abstract class Car {
         this.yearOfManufacture = yearOfManufacture;
     }
 
+    @Override
+    public String toString() {
+        return "Car{" +
+                "model='" + model + '\'' +
+                ", maxSpeed=" + maxSpeed +
+                ", yearOfManufacture=" + yearOfManufacture +
+                '}';
+    }
+
     void run() {
     }
 
