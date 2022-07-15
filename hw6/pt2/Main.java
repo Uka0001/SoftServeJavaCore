@@ -13,49 +13,14 @@ ColorLine with attributes Color  which extends Line class.
 
 
 public class Main {
-}
-
-class Point {
-    int x;
-    int y;
-
-    public int getX() {
-        return x;
+    public static void main(String[] args) {
+        Line [] array = new Line[5];
+        array[0] = new Line(1,2);
+        array[1] = new Line(1, 5);
+        array[2] = new ColorLine(1, 2, "Blue");
+        array[3] = new Line(1, 9);
+        //array[4] = (Line) new Point(1, 2);
+        array[2].print();
+        array[1].print();
     }
-
-    public void setX(int x) {
-        this.x = x;
-    }
-
-    public int getY() {
-        return y;
-    }
-
-    public void setY(int y) {
-        this.y = y;
-    }
-
-   /* @Override
-    public toString(){
-    }*/
-
-    void print(){}
-}
-
-class Line {
-   /* @Override
-    public toString(){
-    }*/
-
-    void print(){}
-}
-
-class ColorLine extends Line{
-    String color;
-
-   /* @Override
-    public toString(){
-    }*/
-
-    void print(){}
 }
