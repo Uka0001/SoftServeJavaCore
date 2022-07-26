@@ -1,27 +1,0 @@
-
-hw6/hw1/Swallow.java•
-1com.softserve.hometasks.hometask1.hw6.hw1.SwallowCLASS
-hw6/hw1/Swallow.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw1"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ó
-declarationStringÅ<mark class="modifier">public </mark><mark class="modifier">class </mark>Swallow<mark class="modifier"> extends </mark>FlyingBird"
-accesspublic*Swallow2k
-<com.softserve.hometasks.hometask1.hw6.hw1.Swallow.toString()DECLARATION
-hw6/hw1/Swallow.java (24
-
-FlyingBirdEXTEND
-hw6/hw1/Swallow.java ('¶
-<com.softserve.hometasks.hometask1.hw6.hw1.Swallow.toString()METHOD
-hw6/hw1/Swallow.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2?
-java.lang.StringRETURN_TYPE
-hw6/hw1/Swallow.java (

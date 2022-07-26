@@ -1,127 +1,0 @@
-
-hw5/HomeWork2.javaÂ
-/com.softserve.hometasks.hometask1.hw5.HomeWork2CLASS
-hw5/HomeWork2.java ("0
-package%com.softserve.hometasks.hometask1.hw5"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"g
-declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>HomeWork2"
-accesspublic*	HomeWork22u
-Hcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])DECLARATION
-hw5/HomeWork2.java (ù
-Hcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])METHOD
-hw5/HomeWork2.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2S
--java.io.PrintStream.println(java.lang.String)CALL
-hw5/HomeWork2.java ("2S
--java.io.PrintStream.println(java.lang.String)CALL
-hw5/HomeWork2.java ("2€
-Zcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?numbers@7.15:7.22CALL
-hw5/HomeWork2.java
- 
-(2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?a@10.17:10.18CALL
-hw5/HomeWork2.java (2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?i@12.25:12.26CALL
-hw5/HomeWork2.java  (!2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?i@12.25:12.26CALL
-hw5/HomeWork2.java' ((2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sum@8.12:8.15CALL
-hw5/HomeWork2.java. (12€
-Zcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?numbers@7.15:7.22CALL
-hw5/HomeWork2.java5 (<2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?i@12.25:12.26CALL
-hw5/HomeWork2.java= (>2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sum@8.12:8.15CALL
-hw5/HomeWork2.javaI (L2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?j@15.25:15.26CALL
-hw5/HomeWork2.java  (!2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?j@15.25:15.26CALL
-hw5/HomeWork2.java( ()2}
-Wcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sumL@9.12:9.16CALL
-hw5/HomeWork2.java/ (32€
-Zcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?numbers@7.15:7.22CALL
-hw5/HomeWork2.java7 (>2|
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?j@15.25:15.26CALL
-hw5/HomeWork2.java? (@2}
-Wcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sumL@9.12:9.16CALL
-hw5/HomeWork2.javaH (L2x
-Mcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])!args	PARAMETER
-hw5/HomeWork2.java% ()2‡
-Zcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?numbers@7.15:7.22DECLARATION
-hw5/HomeWork2.java (2ƒ
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sum@8.12:8.15DECLARATION
-hw5/HomeWork2.java (2„
-Wcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sumL@9.12:9.16DECLARATION
-hw5/HomeWork2.java	 	(2ƒ
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?a@10.17:10.18DECLARATION
-hw5/HomeWork2.java
- 
-(2ƒ
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?i@12.25:12.26DECLARATION
-hw5/HomeWork2.java (2ƒ
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?j@15.25:15.26DECLARATION
-hw5/HomeWork2.java (21
-voidRETURN_TYPE
-hw5/HomeWork2.java (…
-Zcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?numbers@7.15:7.22VARIABLE
-hw5/HomeWork2.java ("
-typeint"
-isFinalfalse"©
-declarationString“<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">numbers</mark> = { 3, -3, 5, -6, -7, 8, 5, -3, 2, 10 }*numbers2+
-int[]TYPE
-hw5/HomeWork2.java (Ï
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sum@8.12:8.15VARIABLE
-hw5/HomeWork2.java ("
-typeint"
-isFinalfalse"~
-declarationStringi<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = 0*sum2)
-intTYPE
-hw5/HomeWork2.java (Ò
-Wcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?sumL@9.12:9.16VARIABLE
-hw5/HomeWork2.java	 	("
-typeint"
-isFinalfalse"
-declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sumL</mark> = 0*sumL2)
-intTYPE
-hw5/HomeWork2.java	 	(Ç
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?a@10.17:10.18VARIABLE
-hw5/HomeWork2.java
- 
-("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark>*a2)
-intTYPE
-hw5/HomeWork2.java
- 
-(Ë
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?i@12.25:12.26VARIABLE
-hw5/HomeWork2.java ("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2)
-intTYPE
-hw5/HomeWork2.java (Ë
-Vcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])?j@15.25:15.26VARIABLE
-hw5/HomeWork2.java ("
-typeint"
-isFinalfalse"|
-declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">j</mark> = 5*j2)
-intTYPE
-hw5/HomeWork2.java (€
-Mcom.softserve.hometasks.hometask1.hw5.HomeWork2.main(java.lang.String[])!args	PARAMETER
-hw5/HomeWork2.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args28
-java.lang.String[]TYPE
-hw5/HomeWork2.java ($

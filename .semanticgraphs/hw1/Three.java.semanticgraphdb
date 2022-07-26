@@ -1,241 +1,0 @@
-
-hw1/Three.javaÂ
-3com.softserve.hometasks.hometask1.TestUka0001.ThreeCLASS
-hw1/Three.java ("8
-package-com.softserve.hometasks.hometask1.TestUka0001"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"c
-declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>Three"
-accesspublic*Three2u
-Lcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])DECLARATION
-hw1/Three.java (ò0
-Lcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])METHOD
-hw1/Three.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java	 	(2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java
- 
-(2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java (2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java (2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java (2=
-java.util.Scanner.nextInt()CALL
-hw1/Three.java (2O
--java.io.PrintStream.println(java.lang.String)CALL
-hw1/Three.java (2O
--java.io.PrintStream.println(java.lang.String)CALL
-hw1/Three.java (2O
--java.io.PrintStream.println(java.lang.String)CALL
-hw1/Three.java (2O
--java.io.PrintStream.println(java.lang.String)CALL
-hw1/Three.java (2;
-java.util.Scanner.close()CALL
-hw1/Three.java (2P
-.java.util.Scanner.Scanner(java.io.InputStream)CALL
-hw1/Three.java (%2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c1@7.12:7.14CALL
-hw1/Three.java	 	(
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java	 	(2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c2@7.16:7.18CALL
-hw1/Three.java
- 
-(
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java
- 
-(2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c3@7.20:7.22CALL
-hw1/Three.java (
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t1@8.12:8.14CALL
-hw1/Three.java (
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t2@8.16:8.18CALL
-hw1/Three.java (
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t3@8.20:8.22CALL
-hw1/Three.java (
-2€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c1@7.12:7.14CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t1@8.12:8.14CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c2@7.16:7.18CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t2@8.16:8.18CALL
-hw1/Three.java ( 2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c3@7.20:7.22CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t3@8.20:8.22CALL
-hw1/Three.java (2„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?firstCall@15.12:15.21CALL
-hw1/Three.java (2…
-ccom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?secondCall@16.12:16.22CALL
-hw1/Three.java ((2„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?thirdCall@17.12:17.21CALL
-hw1/Three.java+ (42„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?firstCall@15.12:15.21CALL
-hw1/Three.java- (62…
-ccom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?secondCall@16.12:16.22CALL
-hw1/Three.java. (82„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?thirdCall@17.12:17.21CALL
-hw1/Three.java- (62~
-\com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?sum@18.12:18.15CALL
-hw1/Three.java/ (22€
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23CALL
-hw1/Three.java (2x
-Qcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])!args	PARAMETER
-hw1/Three.java% ()2‡
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c1@7.12:7.14DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c2@7.16:7.18DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c3@7.20:7.22DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t1@8.12:8.14DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t2@8.16:8.18DECLARATION
-hw1/Three.java (2‚
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t3@8.20:8.22DECLARATION
-hw1/Three.java (2‹
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?firstCall@15.12:15.21DECLARATION
-hw1/Three.java (2Œ
-ccom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?secondCall@16.12:16.22DECLARATION
-hw1/Three.java (2‹
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?thirdCall@17.12:17.21DECLARATION
-hw1/Three.java (2…
-\com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?sum@18.12:18.15DECLARATION
-hw1/Three.java (2-
-voidRETURN_TYPE
-hw1/Three.java (¶
-^com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?scanner@6.16:6.23VARIABLE
-hw1/Three.java ("
-typeScanner"
-isFinalfalse"}
-declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner23
-java.util.ScannerTYPE
-hw1/Three.java (2P
-.java.util.Scanner.Scanner(java.io.InputStream)CALL
-hw1/Three.java (%Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c1@7.12:7.14VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c1</mark>*c12%
-intTYPE
-hw1/Three.java (Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c2@7.16:7.18VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c2</mark>*c22%
-intTYPE
-hw1/Three.java (Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c3@7.20:7.22VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">c3</mark>*c32%
-intTYPE
-hw1/Three.java (Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t1@8.12:8.14VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">t1</mark>*t12%
-intTYPE
-hw1/Three.java (Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t2@8.16:8.18VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">t2</mark>*t22%
-intTYPE
-hw1/Three.java (Ä
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t3@8.20:8.22VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">t3</mark>*t32%
-intTYPE
-hw1/Three.java (à
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?firstCall@15.12:15.21VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"Š
-declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">firstCall</mark> = c1 * t1*	firstCall2%
-intTYPE
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c1@7.12:7.14CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t1@8.12:8.14CALL
-hw1/Three.java (ã
-ccom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?secondCall@16.12:16.22VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"‹
-declarationStringv<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">secondCall</mark> = c2 * t2*
-secondCall2%
-intTYPE
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c2@7.16:7.18CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t2@8.16:8.18CALL
-hw1/Three.java ( à
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?thirdCall@17.12:17.21VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse"Š
-declarationStringu<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">thirdCall</mark> = c3 * t3*	thirdCall2%
-intTYPE
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?c3@7.20:7.22CALL
-hw1/Three.java (2{
-Ycom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?t3@8.20:8.22CALL
-hw1/Three.java (†
-\com.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?sum@18.12:18.15VARIABLE
-hw1/Three.java ("
-typeint"
-isFinalfalse" 
-declarationStringŠ<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">sum</mark> = firstCall + secondCall + thirdCall*sum2%
-intTYPE
-hw1/Three.java (2„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?firstCall@15.12:15.21CALL
-hw1/Three.java (2…
-ccom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?secondCall@16.12:16.22CALL
-hw1/Three.java ((2„
-bcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])?thirdCall@17.12:17.21CALL
-hw1/Three.java+ (4ü
-Qcom.softserve.hometasks.hometask1.TestUka0001.Three.main(java.lang.String[])!args	PARAMETER
-hw1/Three.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args24
-java.lang.String[]TYPE
-hw1/Three.java ($

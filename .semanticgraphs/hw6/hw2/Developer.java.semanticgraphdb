@@ -1,92 +1,0 @@
-
-hw6/hw2/Developer.java»
-3com.softserve.hometasks.hometask1.hw6.hw2.DeveloperCLASS 
-hw6/hw2/Developer.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ó
-declarationStringÅ<mark class="modifier">public </mark><mark class="modifier">class </mark>Developer<mark class="modifier"> extends </mark>Employee"
-accesspublic*	Developer2ü
-ncom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)DECLARATION 
-hw6/hw2/Developer.java (2m
-<com.softserve.hometasks.hometask1.hw6.hw2.Developer.report()DECLARATION 
-hw6/hw2/Developer.java (2w
-Fcom.softserve.hometasks.hometask1.hw6.hw2.Developer?position@3.19:3.27DECLARATION 
-hw6/hw2/Developer.java (24
-EmployeeEXTEND 
-hw6/hw2/Developer.java ('©
-ncom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)CONSTRUCTOR 
-hw6/hw2/Developer.java ("Ü
-declarationString<mark class="modifier">public </mark><mark class="method">Developer</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> age<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> salary<mark class="modifier"><mark class="modifier">,</mark></mark> String position)*	Developer2ù
-scom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!nameCALL 
-hw6/hw2/Developer.java (2ú
-rcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!ageCALL 
-hw6/hw2/Developer.java (2ü
-ucom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!salaryCALL 
-hw6/hw2/Developer.java (2°
-wcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!positionCALL 
-hw6/hw2/Developer.java ( 2p
-Fcom.softserve.hometasks.hometask1.hw6.hw2.Developer?position@3.19:3.27CALL 
-hw6/hw2/Developer.java (2¢
-scom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!name	PARAMETER 
-hw6/hw2/Developer.java ( 2°
-rcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!age	PARAMETER 
-hw6/hw2/Developer.java& ()2§
-ucom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!salary	PARAMETER 
-hw6/hw2/Developer.java2 (82¶
-wcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!position	PARAMETER 
-hw6/hw2/Developer.javaA (I2d
-3com.softserve.hometasks.hometask1.hw6.hw2.DeveloperRETURN_TYPE 
-hw6/hw2/Developer.java (®
-scom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!name	PARAMETER 
-hw6/hw2/Developer.java ( "
-typeString"
-isFinalfalse" 
-declarationStringString name*name2:
-java.lang.StringTYPE 
-hw6/hw2/Developer.java (∞
-rcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!age	PARAMETER 
-hw6/hw2/Developer.java& ()"
-typeint"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark> age*age2-
-intTYPE 
-hw6/hw2/Developer.java" (%¬
-ucom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!salary	PARAMETER 
-hw6/hw2/Developer.java2 (8"
-typedouble"
-isFinalfalse"@
-declarationString+<mark class="modifier">double</mark> salary*salary20
-doubleTYPE 
-hw6/hw2/Developer.java+ (1¥
-wcom.softserve.hometasks.hometask1.hw6.hw2.Developer.Developer(java.lang.String, int, double, java.lang.String)!position	PARAMETER 
-hw6/hw2/Developer.javaA (I"
-typeString"
-isFinalfalse"$
-declarationStringString position*position2:
-java.lang.StringTYPE 
-hw6/hw2/Developer.java: (@ó
-<com.softserve.hometasks.hometask1.hw6.hw2.Developer.report()METHOD 
-hw6/hw2/Developer.java ("
-isFinalfalse"ì
-declarationString~<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">report</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*report2p
-Fcom.softserve.hometasks.hometask1.hw6.hw2.Developer?position@3.19:3.27CALL 
-hw6/hw2/Developer.java% (-2A
-java.lang.StringRETURN_TYPE 
-hw6/hw2/Developer.java (Ô
-Fcom.softserve.hometasks.hometask1.hw6.hw2.Developer?position@3.19:3.27VARIABLE 
-hw6/hw2/Developer.java ("
-isFinalfalse"
-typeString"k
-declarationStringV<mark class="modifier">private </mark>String <mark class="class-field">position</mark>"
-isStaticfalse"
-accessprivate*position2:
-java.lang.StringTYPE 
-hw6/hw2/Developer.java (

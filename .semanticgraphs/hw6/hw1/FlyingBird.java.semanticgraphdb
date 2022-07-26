@@ -1,40 +1,0 @@
-
-hw6/hw1/FlyingBird.javaõ
-4com.softserve.hometasks.hometask1.hw6.hw1.FlyingBirdCLASS!
-hw6/hw1/FlyingBird.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw1"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ì
-declarationString~<mark class="modifier">public </mark><mark class="modifier">class </mark>FlyingBird<mark class="modifier"> extends </mark>Bird"
-accesspublic*
-FlyingBird2l
-:com.softserve.hometasks.hometask1.hw6.hw1.FlyingBird.fly()DECLARATION!
-hw6/hw1/FlyingBird.java (2q
-?com.softserve.hometasks.hometask1.hw6.hw1.FlyingBird.toString()DECLARATION!
-hw6/hw1/FlyingBird.java (21
-BirdEXTEND!
-hw6/hw1/FlyingBird.java  ($à
-:com.softserve.hometasks.hometask1.hw6.hw1.FlyingBird.fly()METHOD!
-hw6/hw1/FlyingBird.java ("
-isFinalfalse"Å
-declarationStringl<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeboolean*fly29
-booleanRETURN_TYPE!
-hw6/hw1/FlyingBird.java (Ø
-?com.softserve.hometasks.hometask1.hw6.hw1.FlyingBird.toString()METHOD!
-hw6/hw1/FlyingBird.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2B
-java.lang.StringRETURN_TYPE!
-hw6/hw1/FlyingBird.java (

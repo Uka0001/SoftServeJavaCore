@@ -1,238 +1,0 @@
-
-hw6/hw2/Employee.java÷
-2com.softserve.hometasks.hometask1.hw6.hw2.EmployeeCLASS
-hw6/hw2/Employee.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"f
-declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>Employee"
-accesspublic*Employee2ä
-Zcom.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)DECLARATION
-hw6/hw2/Employee.java (2k
-;com.softserve.hometasks.hometask1.hw6.hw2.Employee.report()DECLARATION
-hw6/hw2/Employee.java (2l
-<com.softserve.hometasks.hometask1.hw6.hw2.Employee.getName()DECLARATION
-hw6/hw2/Employee.java (2|
-Lcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setName(java.lang.String)DECLARATION
-hw6/hw2/Employee.java (2k
-;com.softserve.hometasks.hometask1.hw6.hw2.Employee.getAge()DECLARATION
-hw6/hw2/Employee.java (2n
->com.softserve.hometasks.hometask1.hw6.hw2.Employee.setAge(int)DECLARATION
-hw6/hw2/Employee.java (2n
->com.softserve.hometasks.hometask1.hw6.hw2.Employee.getSalary()DECLARATION
-hw6/hw2/Employee.java" "(2t
-Dcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setSalary(double)DECLARATION
-hw6/hw2/Employee.java& &(2q
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23DECLARATION
-hw6/hw2/Employee.java (2p
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19DECLARATION
-hw6/hw2/Employee.java (2s
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25DECLARATION
-hw6/hw2/Employee.java (À
-Zcom.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)CONSTRUCTOR
-hw6/hw2/Employee.java ("∏
-declarationString¢<mark class="modifier">public </mark><mark class="method">Employee</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> age<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">double</mark> salary)*Employee2à
-_com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!nameCALL
-hw6/hw2/Employee.java (2á
-^com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!ageCALL
-hw6/hw2/Employee.java	 	(2ä
-acom.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!salaryCALL
-hw6/hw2/Employee.java
- 
-(2j
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23CALL
-hw6/hw2/Employee.java (2i
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19CALL
-hw6/hw2/Employee.java	 	(2l
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25CALL
-hw6/hw2/Employee.java
- 
-(2ç
-_com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!name	PARAMETER
-hw6/hw2/Employee.java (2å
-^com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!age	PARAMETER
-hw6/hw2/Employee.java% ((2è
-acom.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!salary	PARAMETER
-hw6/hw2/Employee.java1 (72b
-2com.softserve.hometasks.hometask1.hw6.hw2.EmployeeRETURN_TYPE
-hw6/hw2/Employee.java (í
-_com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!name	PARAMETER
-hw6/hw2/Employee.java ("
-typeString"
-isFinalfalse" 
-declarationStringString name*name29
-java.lang.StringTYPE
-hw6/hw2/Employee.java (ö
-^com.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!age	PARAMETER
-hw6/hw2/Employee.java% (("
-typeint"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark> age*age2,
-intTYPE
-hw6/hw2/Employee.java! ($¨
-acom.softserve.hometasks.hometask1.hw6.hw2.Employee.Employee(java.lang.String, int, double)!salary	PARAMETER
-hw6/hw2/Employee.java1 (7"
-typedouble"
-isFinalfalse"@
-declarationString+<mark class="modifier">double</mark> salary*salary2/
-doubleTYPE
-hw6/hw2/Employee.java* (0°
-;com.softserve.hometasks.hometask1.hw6.hw2.Employee.report()METHOD
-hw6/hw2/Employee.java ("
-isFinalfalse"e
-declarationStringP<mark class="modifier">public </mark>String <mark class="method">report</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*report2g
->java.lang.String.format(java.lang.String, java.lang.Object...)CALL
-hw6/hw2/Employee.java (2j
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23CALL
-hw6/hw2/Employee.java (2i
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19CALL
-hw6/hw2/Employee.java (2l
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25CALL
-hw6/hw2/Employee.java (!2@
-java.lang.StringRETURN_TYPE
-hw6/hw2/Employee.java (‚
-<com.softserve.hometasks.hometask1.hw6.hw2.Employee.getName()METHOD
-hw6/hw2/Employee.java ("
-isFinalfalse"f
-declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getName</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*getName2j
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23CALL
-hw6/hw2/Employee.java (2@
-java.lang.StringRETURN_TYPE
-hw6/hw2/Employee.java (â
-Lcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setName(java.lang.String)METHOD
-hw6/hw2/Employee.java ("
-isFinalfalse"ç
-declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setName</mark>(String name)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*setName2z
-Qcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setName(java.lang.String)!nameCALL
-hw6/hw2/Employee.java (2j
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23CALL
-hw6/hw2/Employee.java (2
-Qcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setName(java.lang.String)!name	PARAMETER
-hw6/hw2/Employee.java (#24
-voidRETURN_TYPE
-hw6/hw2/Employee.java (Ñ
-Qcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setName(java.lang.String)!name	PARAMETER
-hw6/hw2/Employee.java (#"
-typeString"
-isFinalfalse" 
-declarationStringString name*name29
-java.lang.StringTYPE
-hw6/hw2/Employee.java (Í
-;com.softserve.hometasks.hometask1.hw6.hw2.Employee.getAge()METHOD
-hw6/hw2/Employee.java ("
-isFinalfalse"Ä
-declarationStringk<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getAge</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeint*getAge2i
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19CALL
-hw6/hw2/Employee.java (23
-intRETURN_TYPE
-hw6/hw2/Employee.java (ı
->com.softserve.hometasks.hometask1.hw6.hw2.Employee.setAge(int)METHOD
-hw6/hw2/Employee.java ("
-isFinalfalse"ß
-declarationStringë<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setAge</mark>(<mark class="modifier">int</mark> age)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*setAge2k
-Bcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setAge(int)!ageCALL
-hw6/hw2/Employee.java (2i
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19CALL
-hw6/hw2/Employee.java (2p
-Bcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setAge(int)!age	PARAMETER
-hw6/hw2/Employee.java (24
-voidRETURN_TYPE
-hw6/hw2/Employee.java (˛
-Bcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setAge(int)!age	PARAMETER
-hw6/hw2/Employee.java ("
-typeint"
-isFinalfalse":
-declarationString%<mark class="modifier">int</mark> age*age2,
-intTYPE
-hw6/hw2/Employee.java (ˇ
->com.softserve.hometasks.hometask1.hw6.hw2.Employee.getSalary()METHOD
-hw6/hw2/Employee.java" "("
-isFinalfalse"Ü
-declarationStringq<mark class="modifier">public </mark><mark class="modifier">double</mark> <mark class="method">getSalary</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typedouble*	getSalary2l
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25CALL
-hw6/hw2/Employee.java# #(26
-doubleRETURN_TYPE
-hw6/hw2/Employee.java" "(ú
-Dcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setSalary(double)METHOD
-hw6/hw2/Employee.java& &("
-isFinalfalse"∞
-declarationStringö<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setSalary</mark>(<mark class="modifier">double</mark> salary)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*	setSalary2t
-Kcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setSalary(double)!salaryCALL
-hw6/hw2/Employee.java' '(2l
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25CALL
-hw6/hw2/Employee.java' '(2y
-Kcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setSalary(double)!salary	PARAMETER
-hw6/hw2/Employee.java&! &('24
-voidRETURN_TYPE
-hw6/hw2/Employee.java& &(ñ
-Kcom.softserve.hometasks.hometask1.hw6.hw2.Employee.setSalary(double)!salary	PARAMETER
-hw6/hw2/Employee.java&! &('"
-typedouble"
-isFinalfalse"@
-declarationString+<mark class="modifier">double</mark> salary*salary2/
-doubleTYPE
-hw6/hw2/Employee.java& &( ‡
-Acom.softserve.hometasks.hometask1.hw6.hw2.Employee?name@3.19:3.23VARIABLE
-hw6/hw2/Employee.java ("
-isFinalfalse"
-typeString"g
-declarationStringR<mark class="modifier">private </mark>String <mark class="class-field">name</mark>"
-isStaticfalse"
-accessprivate*name29
-java.lang.StringTYPE
-hw6/hw2/Employee.java (È
-@com.softserve.hometasks.hometask1.hw6.hw2.Employee?age@4.16:4.19VARIABLE
-hw6/hw2/Employee.java ("
-isFinalfalse"
-typeint"Å
-declarationStringl<mark class="modifier">private </mark><mark class="modifier">int</mark> <mark class="class-field">age</mark>"
-isStaticfalse"
-accessprivate*age2,
-intTYPE
-hw6/hw2/Employee.java (˚
-Ccom.softserve.hometasks.hometask1.hw6.hw2.Employee?salary@5.19:5.25VARIABLE
-hw6/hw2/Employee.java ("
-isFinalfalse"
-typedouble"á
-declarationStringr<mark class="modifier">private </mark><mark class="modifier">double</mark> <mark class="class-field">salary</mark>"
-isStaticfalse"
-accessprivate*salary2/
-doubleTYPE
-hw6/hw2/Employee.java (

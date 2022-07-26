@@ -1,140 +1,0 @@
-
-hw6/pt1/Car.javaÑ
--com.softserve.hometasks.hometask1.hw6.pt1.CarCLASS
-hw6/pt1/Car.java ("4
-package)com.softserve.hometasks.hometask1.hw6.pt1"
-isFinalfalse"
-inner classfalse"
-
-isAbstracttrue"ˆ
-declarationStrings<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Car"
-accesspublic*Car2x
-Mcom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)DECLARATION
-hw6/pt1/Car.java (2c
-8com.softserve.hometasks.hometask1.hw6.pt1.Car.toString()DECLARATION
-hw6/pt1/Car.java (2^
-3com.softserve.hometasks.hometask1.hw6.pt1.Car.run()DECLARATION
-hw6/pt1/Car.java	 (2_
-4com.softserve.hometasks.hometask1.hw6.pt1.Car.stop()DECLARATION
-hw6/pt1/Car.java	 (2h
-=com.softserve.hometasks.hometask1.hw6.pt1.Car?model@3.11:3.16DECLARATION
-hw6/pt1/Car.java (2j
-?com.softserve.hometasks.hometask1.hw6.pt1.Car?maxSpeed@4.8:4.16DECLARATION
-hw6/pt1/Car.java (2s
-Hcom.softserve.hometasks.hometask1.hw6.pt1.Car?yearOfManufacture@5.8:5.25DECLARATION
-hw6/pt1/Car.java (Ö
-Mcom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)CONSTRUCTOR
-hw6/pt1/Car.java ("Á
-declarationString«<mark class="modifier">public </mark><mark class="method">Car</mark>(String model<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> maxSpeed<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> yearOfManufacture)*Car2w
-Scom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!modelCALL
-hw6/pt1/Car.java (2z
-Vcom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!maxSpeedCALL
-hw6/pt1/Car.java	 	( 2ƒ
-_com.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!yearOfManufactureCALL
-hw6/pt1/Car.java
-! 
-(22a
-=com.softserve.hometasks.hometask1.hw6.pt1.Car?model@3.11:3.16CALL
-hw6/pt1/Car.java (2c
-?com.softserve.hometasks.hometask1.hw6.pt1.Car?maxSpeed@4.8:4.16CALL
-hw6/pt1/Car.java	 	(2l
-Hcom.softserve.hometasks.hometask1.hw6.pt1.Car?yearOfManufacture@5.8:5.25CALL
-hw6/pt1/Car.java
- 
-(2|
-Scom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!model	PARAMETER
-hw6/pt1/Car.java (2
-Vcom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!maxSpeed	PARAMETER
-hw6/pt1/Car.java! ()2ˆ
-_com.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!yearOfManufacture	PARAMETER
-hw6/pt1/Car.java/ (@2X
--com.softserve.hometasks.hometask1.hw6.pt1.CarRETURN_TYPE
-hw6/pt1/Car.java (þ
-Scom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!model	PARAMETER
-hw6/pt1/Car.java ("
-typeString"
-isFinalfalse"!
-declarationStringString model*model24
-java.lang.StringTYPE
-hw6/pt1/Car.java (’
-Vcom.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!maxSpeed	PARAMETER
-hw6/pt1/Car.java! ()"
-typeint"
-isFinalfalse"?
-declarationString*<mark class="modifier">int</mark> maxSpeed*maxSpeed2'
-intTYPE
-hw6/pt1/Car.java ( ­
-_com.softserve.hometasks.hometask1.hw6.pt1.Car.Car(java.lang.String, int, int)!yearOfManufacture	PARAMETER
-hw6/pt1/Car.java/ (@"
-typeint"
-isFinalfalse"H
-declarationString3<mark class="modifier">int</mark> yearOfManufacture*yearOfManufacture2'
-intTYPE
-hw6/pt1/Car.java+ (.Ð
-8com.softserve.hometasks.hometask1.hw6.pt1.Car.toString()METHOD
-hw6/pt1/Car.java ("
-isFinalfalse"–
-declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2a
-=com.softserve.hometasks.hometask1.hw6.pt1.Car?model@3.11:3.16CALL
-hw6/pt1/Car.java (!2c
-?com.softserve.hometasks.hometask1.hw6.pt1.Car?maxSpeed@4.8:4.16CALL
-hw6/pt1/Car.java  ((2l
-Hcom.softserve.hometasks.hometask1.hw6.pt1.Car?yearOfManufacture@5.8:5.25CALL
-hw6/pt1/Car.java) (:2;
-java.lang.StringRETURN_TYPE
-hw6/pt1/Car.java (ì
-3com.softserve.hometasks.hometask1.hw6.pt1.Car.run()METHOD
-hw6/pt1/Car.java	 ("
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">run</mark>()"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"
-typevoid*run2/
-voidRETURN_TYPE
-hw6/pt1/Car.java (ï
-4com.softserve.hometasks.hometask1.hw6.pt1.Car.stop()METHOD
-hw6/pt1/Car.java	 ("
-isFinalfalse"y
-declarationStringd<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">stop</mark>()"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"
-typevoid*stop2/
-voidRETURN_TYPE
-hw6/pt1/Car.java (Õ
-=com.softserve.hometasks.hometask1.hw6.pt1.Car?model@3.11:3.16VARIABLE
-hw6/pt1/Car.java ("
-isFinalfalse"
-typeString"a
-declarationStringL<mark class="modifier"> </mark>String <mark class="class-field">model</mark>"
-isStaticfalse"
-accesspackage_private*model24
-java.lang.StringTYPE
-hw6/pt1/Car.java (
-è
-?com.softserve.hometasks.hometask1.hw6.pt1.Car?maxSpeed@4.8:4.16VARIABLE
-hw6/pt1/Car.java ("
-isFinalfalse"
-typeint"
-declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">maxSpeed</mark>"
-isStaticfalse"
-accesspackage_private*maxSpeed2'
-intTYPE
-hw6/pt1/Car.java („
-Hcom.softserve.hometasks.hometask1.hw6.pt1.Car?yearOfManufacture@5.8:5.25VARIABLE
-hw6/pt1/Car.java ("
-isFinalfalse"
-typeint"ˆ
-declarationStrings<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">yearOfManufacture</mark>"
-isStaticfalse"
-accesspackage_private*yearOfManufacture2'
-intTYPE
-hw6/pt1/Car.java (

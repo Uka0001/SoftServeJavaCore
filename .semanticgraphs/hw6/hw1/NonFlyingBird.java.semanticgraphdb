@@ -1,39 +1,0 @@
-
-hw6/hw1/NonFlyingBird.java∑
-7com.softserve.hometasks.hometask1.hw6.hw1.NonFlyingBirdCLASS$
-hw6/hw1/NonFlyingBird.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw1"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ó
-declarationStringÅ<mark class="modifier">public </mark><mark class="modifier">class </mark>NonFlyingBird<mark class="modifier"> extends </mark>Bird"
-accesspublic*NonFlyingBird2r
-=com.softserve.hometasks.hometask1.hw6.hw1.NonFlyingBird.fly()DECLARATION$
-hw6/hw1/NonFlyingBird.java (2w
-Bcom.softserve.hometasks.hometask1.hw6.hw1.NonFlyingBird.toString()DECLARATION$
-hw6/hw1/NonFlyingBird.java (24
-BirdEXTEND$
-hw6/hw1/NonFlyingBird.java# ('ë
-=com.softserve.hometasks.hometask1.hw6.hw1.NonFlyingBird.fly()METHOD$
-hw6/hw1/NonFlyingBird.java ("
-isFinalfalse"Å
-declarationStringl<mark class="modifier">public </mark><mark class="modifier">boolean</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeboolean*fly2<
-booleanRETURN_TYPE$
-hw6/hw1/NonFlyingBird.java (∏
-Bcom.softserve.hometasks.hometask1.hw6.hw1.NonFlyingBird.toString()METHOD$
-hw6/hw1/NonFlyingBird.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2E
-java.lang.StringRETURN_TYPE$
-hw6/hw1/NonFlyingBird.java (

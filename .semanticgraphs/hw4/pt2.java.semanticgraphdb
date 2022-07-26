@@ -1,57 +1,0 @@
-
-hw4/pt2.java…
-)com.softserve.hometasks.hometask1.hw4.pt2CLASS
-hw4/pt2.java ("0
-package%com.softserve.hometasks.hometask1.hw4"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"a
-declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>pt2"
-accesspublic*pt22i
-Bcom.softserve.hometasks.hometask1.hw4.pt2.main(java.lang.String[])DECLARATION
-hw4/pt2.java (2e
->com.softserve.hometasks.hometask1.hw4.pt2.ConvertDaystoId(int)DECLARATION
-hw4/pt2.java ('ó
-Bcom.softserve.hometasks.hometask1.hw4.pt2.main(java.lang.String[])METHOD
-hw4/pt2.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2^
->com.softserve.hometasks.hometask1.hw4.pt2.ConvertDaystoId(int)CALL
-hw4/pt2.java (2l
-Gcom.softserve.hometasks.hometask1.hw4.pt2.main(java.lang.String[])!args	PARAMETER
-hw4/pt2.java% ()2+
-voidRETURN_TYPE
-hw4/pt2.java (î
-Gcom.softserve.hometasks.hometask1.hw4.pt2.main(java.lang.String[])!args	PARAMETER
-hw4/pt2.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args22
-java.lang.String[]TYPE
-hw4/pt2.java ($¶
->com.softserve.hometasks.hometask1.hw4.pt2.ConvertDaystoId(int)METHOD
-hw4/pt2.java ('"
-isFinalfalse"Ô
-declarationString¾<mark class="modifier">private </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">ConvertDaystoId</mark>(<mark class="modifier">int</mark> i)"
-isStatictrue"
-accessprivate"
-
-isAbstractfalse"
-typevoid*ConvertDaystoId2e
-@com.softserve.hometasks.hometask1.hw4.pt2.ConvertDaystoId(int)!i	PARAMETER
-hw4/pt2.java, (-2+
-voidRETURN_TYPE
-hw4/pt2.java (æ
-@com.softserve.hometasks.hometask1.hw4.pt2.ConvertDaystoId(int)!i	PARAMETER
-hw4/pt2.java, (-"
-typeint"
-isFinalfalse"8
-declarationString#<mark class="modifier">int</mark> i*i2#
-intTYPE
-hw4/pt2.java( (+

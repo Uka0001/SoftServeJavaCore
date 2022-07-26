@@ -1,95 +1,0 @@
-
-hw6/pt2/Line.java´
-.com.softserve.hometasks.hometask1.hw6.pt2.LineCLASS
-hw6/pt2/Line.java (
-"4
-package)com.softserve.hometasks.hometask1.hw6.pt2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"à
-declarationStrings<mark class="modifier"> </mark><mark class="modifier">class </mark>Line<mark class="modifier"> extends </mark>Point"
-accesspackage_private*Line2i
-=com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)DECLARATION
-hw6/pt2/Line.java (2e
-9com.softserve.hometasks.hometask1.hw6.pt2.Line.toString()DECLARATION
-hw6/pt2/Line.java (2b
-6com.softserve.hometasks.hometask1.hw6.pt2.Line.print()DECLARATION
-hw6/pt2/Line.java	 (2h
-<com.softserve.hometasks.hometask1.hw6.pt2.Line?one@3.10:3.13DECLARATION
-hw6/pt2/Line.java
- (2h
-<com.softserve.hometasks.hometask1.hw6.pt2.Line?two@4.10:4.13DECLARATION
-hw6/pt2/Line.java
- (2,
-PointEXTEND
-hw6/pt2/Line.java (—
-=com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)CONSTRUCTOR
-hw6/pt2/Line.java ("·
-declarationStringÀ<mark class="modifier">public </mark><mark class="method">Line</mark>(<mark class="modifier">int</mark> x<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y)*Line2d
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!xCALL
-hw6/pt2/Line.java (2d
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!yCALL
-hw6/pt2/Line.java (2i
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!x	PARAMETER
-hw6/pt2/Line.java (2i
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!y	PARAMETER
-hw6/pt2/Line.java (2Z
-.com.softserve.hometasks.hometask1.hw6.pt2.LineRETURN_TYPE
-hw6/pt2/Line.java (Ô
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!x	PARAMETER
-hw6/pt2/Line.java ("
-typeint"
-isFinalfalse"8
-declarationString#<mark class="modifier">int</mark> x*x2(
-intTYPE
-hw6/pt2/Line.java (Ô
-?com.softserve.hometasks.hometask1.hw6.pt2.Line.Line(int, int)!y	PARAMETER
-hw6/pt2/Line.java ("
-typeint"
-isFinalfalse"8
-declarationString#<mark class="modifier">int</mark> y*y2(
-intTYPE
-hw6/pt2/Line.java (ù
-9com.softserve.hometasks.hometask1.hw6.pt2.Line.toString()METHOD
-hw6/pt2/Line.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2<
-java.lang.StringRETURN_TYPE
-hw6/pt2/Line.java (ı
-6com.softserve.hometasks.hometask1.hw6.pt2.Line.print()METHOD
-hw6/pt2/Line.java	 ("
-isFinalfalse"z
-declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">print</mark>()"
-isStaticfalse"
-accesspackage_private"
-
-isAbstractfalse"
-typevoid*print20
-voidRETURN_TYPE
-hw6/pt2/Line.java (ÿ
-<com.softserve.hometasks.hometask1.hw6.pt2.Line?one@3.10:3.13VARIABLE
-hw6/pt2/Line.java
- ("
-isFinalfalse"
-typePoint"q
-declarationString\<mark class="modifier"> </mark>Point <mark class="class-field">one</mark> = new Point(1, 2);"
-isStaticfalse"
-accesspackage_private*one2*
-PointTYPE
-hw6/pt2/Line.java (	ÿ
-<com.softserve.hometasks.hometask1.hw6.pt2.Line?two@4.10:4.13VARIABLE
-hw6/pt2/Line.java
- ("
-isFinalfalse"
-typePoint"q
-declarationString\<mark class="modifier"> </mark>Point <mark class="class-field">two</mark> = new Point(2, 3);"
-isStaticfalse"
-accesspackage_private*two2*
-PointTYPE
-hw6/pt2/Line.java (	

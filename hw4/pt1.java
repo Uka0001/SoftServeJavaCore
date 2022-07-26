@@ -1,5 +1,5 @@
 package com.softserve.hometasks.hometask1.hw4;
-
+//Enter three numbers. Find out how many of them are odd.
 public class pt1 {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3};

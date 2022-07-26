@@ -1,7 +1,8 @@
 package com.softserve.hometasks.hometask1.hw3;
 
 public class Main {
-    public static void main(String[] args) {
+    //HomeWork
+   /* public static void main(String[] args) {
         Person one = new Person();
         Person two = new Person();
         Person three = new Person();
@@ -21,6 +22,17 @@ public class Main {
 
         two.changeName("B", "Bird");
         two.output();
+    }*/
+    // Practical Task
+    public static void main(String[] args) {
+        Employee one = new Employee("A", 5, 40);
+        Employee two = new Employee("B", 6, 45);
+        Employee three = new Employee("C", 9, 60);
 
+        two.getBonuses();
+        System.out.println("total salary of all workers = " + (one.getSalary() + two.getSalary() + three.getSalary()));
+
+        three.changeRate(7);
+        System.out.println("total salary of all workers = " + (one.getSalary() + two.getSalary() + two.getBonuses() + three.getSalary()));
     }
 }

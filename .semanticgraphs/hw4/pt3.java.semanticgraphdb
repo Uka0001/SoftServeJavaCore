@@ -1,33 +1,0 @@
-
-hw4/pt3.javaž
-)com.softserve.hometasks.hometask1.hw4.pt3CLASS
-hw4/pt3.java ("0
-package%com.softserve.hometasks.hometask1.hw4"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"a
-declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>pt3"
-accesspublic*pt32i
-Bcom.softserve.hometasks.hometask1.hw4.pt3.main(java.lang.String[])DECLARATION
-hw4/pt3.java (“
-Bcom.softserve.hometasks.hometask1.hw4.pt3.main(java.lang.String[])METHOD
-hw4/pt3.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2l
-Gcom.softserve.hometasks.hometask1.hw4.pt3.main(java.lang.String[])!args	PARAMETER
-hw4/pt3.java% ()2+
-voidRETURN_TYPE
-hw4/pt3.java (î
-Gcom.softserve.hometasks.hometask1.hw4.pt3.main(java.lang.String[])!args	PARAMETER
-hw4/pt3.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args22
-java.lang.String[]TYPE
-hw4/pt3.java ($

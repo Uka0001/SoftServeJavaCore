@@ -1,54 +1,0 @@
-
-hw6/pt2/Main.java¸
-.com.softserve.hometasks.hometask1.hw6.pt2.MainCLASS
-hw6/pt2/Main.java ("4
-package)com.softserve.hometasks.hometask1.hw6.pt2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"b
-declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
-accesspublic*Main2s
-Gcom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])DECLARATION
-hw6/pt2/Main.java (´
-Gcom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])METHOD
-hw6/pt2/Main.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2~
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21CALL
-hw6/pt2/Main.java (2v
-Lcom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])!args	PARAMETER
-hw6/pt2/Main.java% ()2…
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21DECLARATION
-hw6/pt2/Main.java (20
-voidRETURN_TYPE
-hw6/pt2/Main.java (Ç
-Ycom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])?array@16.16:16.21VARIABLE
-hw6/pt2/Main.java ("
-typeLine"
-isFinalfalse"o
-declarationStringZ<mark class="modifier"> </mark>Line[] <mark class="class-field">array</mark> = new Line[5]*array2+
-Line[]TYPE
-hw6/pt2/Main.java (ý
-Lcom.softserve.hometasks.hometask1.hw6.pt2.Main.main(java.lang.String[])!args	PARAMETER
-hw6/pt2/Main.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args27
-java.lang.String[]TYPE
-hw6/pt2/Main.java ($

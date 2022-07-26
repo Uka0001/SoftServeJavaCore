@@ -1,233 +1,0 @@
-
-hw5/Employee.javaÉ
-.com.softserve.hometasks.hometask1.hw5.EmployeeCLASS
-hw5/Employee.java
- 
-("0
-package%com.softserve.hometasks.hometask1.hw5"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"f
-declarationStringQ<mark class="modifier">public </mark><mark class="modifier">class </mark>Employee"
-accesspublic*Employee2
-Scom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)DECLARATION
-hw5/Employee.java (2e
-9com.softserve.hometasks.hometask1.hw5.Employee.toString()DECLARATION
-hw5/Employee.java (2d
-8com.softserve.hometasks.hometask1.hw5.Employee.getName()DECLARATION
-hw5/Employee.java   (2t
-Hcom.softserve.hometasks.hometask1.hw5.Employee.setName(java.lang.String)DECLARATION
-hw5/Employee.java$ $(2i
-=com.softserve.hometasks.hometask1.hw5.Employee.getDepNumber()DECLARATION
-hw5/Employee.java( ((2l
-@com.softserve.hometasks.hometask1.hw5.Employee.setDepNumber(int)DECLARATION
-hw5/Employee.java, ,(2f
-:com.softserve.hometasks.hometask1.hw5.Employee.getSalary()DECLARATION
-hw5/Employee.java0 0(2i
-=com.softserve.hometasks.hometask1.hw5.Employee.setSalary(int)DECLARATION
-hw5/Employee.java4 4(2k
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15DECLARATION
-hw5/Employee.java (2o
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17DECLARATION
-hw5/Employee.java (2l
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14DECLARATION
-hw5/Employee.java (ı
-Scom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)CONSTRUCTOR
-hw5/Employee.java ("ª
-declarationString•<mark class="modifier">public </mark><mark class="method">Employee</mark>(String name<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> depNumber<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> salary)*Employee2}
-Xcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!nameCALL
-hw5/Employee.java (2Ç
-]com.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!depNumberCALL
-hw5/Employee.java ("2
-Zcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!salaryCALL
-hw5/Employee.java (2d
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15CALL
-hw5/Employee.java (2h
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17CALL
-hw5/Employee.java (2e
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14CALL
-hw5/Employee.java (2Ç
-Xcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!name	PARAMETER
-hw5/Employee.java (2á
-]com.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!depNumber	PARAMETER
-hw5/Employee.java% (.2Ñ
-Zcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!salary	PARAMETER
-hw5/Employee.java4 (:2Z
-.com.softserve.hometasks.hometask1.hw5.EmployeeRETURN_TYPE
-hw5/Employee.java (É
-Xcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!name	PARAMETER
-hw5/Employee.java ("
-typeString"
-isFinalfalse" 
-declarationStringString name*name25
-java.lang.StringTYPE
-hw5/Employee.java (ù
-]com.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!depNumber	PARAMETER
-hw5/Employee.java% (."
-typeint"
-isFinalfalse"@
-declarationString+<mark class="modifier">int</mark> depNumber*	depNumber2(
-intTYPE
-hw5/Employee.java! ($î
-Zcom.softserve.hometasks.hometask1.hw5.Employee.Employee(java.lang.String, int, int)!salary	PARAMETER
-hw5/Employee.java4 (:"
-typeint"
-isFinalfalse"=
-declarationString(<mark class="modifier">int</mark> salary*salary2(
-intTYPE
-hw5/Employee.java0 (3‘
-9com.softserve.hometasks.hometask1.hw5.Employee.toString()METHOD
-hw5/Employee.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2d
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15CALL
-hw5/Employee.java (2h
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17CALL
-hw5/Employee.java! (*2e
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14CALL
-hw5/Employee.java ($2<
-java.lang.StringRETURN_TYPE
-hw5/Employee.java (–
-8com.softserve.hometasks.hometask1.hw5.Employee.getName()METHOD
-hw5/Employee.java   ("
-isFinalfalse"f
-declarationStringQ<mark class="modifier">public </mark>String <mark class="method">getName</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*getName2d
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15CALL
-hw5/Employee.java! !(2<
-java.lang.StringRETURN_TYPE
-hw5/Employee.java   (Á
-Hcom.softserve.hometasks.hometask1.hw5.Employee.setName(java.lang.String)METHOD
-hw5/Employee.java$ $("
-isFinalfalse"ç
-declarationStringx<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setName</mark>(String name)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*setName2r
-Mcom.softserve.hometasks.hometask1.hw5.Employee.setName(java.lang.String)!nameCALL
-hw5/Employee.java% %(2d
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15CALL
-hw5/Employee.java% %(2w
-Mcom.softserve.hometasks.hometask1.hw5.Employee.setName(java.lang.String)!name	PARAMETER
-hw5/Employee.java$ $(#20
-voidRETURN_TYPE
-hw5/Employee.java$ $(¯
-Mcom.softserve.hometasks.hometask1.hw5.Employee.setName(java.lang.String)!name	PARAMETER
-hw5/Employee.java$ $(#"
-typeString"
-isFinalfalse" 
-declarationStringString name*name25
-java.lang.StringTYPE
-hw5/Employee.java$ $(Ô
-=com.softserve.hometasks.hometask1.hw5.Employee.getDepNumber()METHOD
-hw5/Employee.java( (("
-isFinalfalse"Ü
-declarationStringq<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getDepNumber</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeint*getDepNumber2h
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17CALL
-hw5/Employee.java) )(2/
-intRETURN_TYPE
-hw5/Employee.java( ((ó
-@com.softserve.hometasks.hometask1.hw5.Employee.setDepNumber(int)METHOD
-hw5/Employee.java, ,("
-isFinalfalse"≥
-declarationStringù<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setDepNumber</mark>(<mark class="modifier">int</mark> depNumber)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*setDepNumber2h
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17CALL
-hw5/Employee.java- -(2t
-Jcom.softserve.hometasks.hometask1.hw5.Employee.setDepNumber(int)!depNumber	PARAMETER
-hw5/Employee.java,! ,(*20
-voidRETURN_TYPE
-hw5/Employee.java, ,(ä
-Jcom.softserve.hometasks.hometask1.hw5.Employee.setDepNumber(int)!depNumber	PARAMETER
-hw5/Employee.java,! ,(*"
-typeint"
-isFinalfalse"@
-declarationString+<mark class="modifier">int</mark> depNumber*	depNumber2(
-intTYPE
-hw5/Employee.java, ,( „
-:com.softserve.hometasks.hometask1.hw5.Employee.getSalary()METHOD
-hw5/Employee.java0 0("
-isFinalfalse"É
-declarationStringn<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getSalary</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeint*	getSalary2e
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14CALL
-hw5/Employee.java1 1(2/
-intRETURN_TYPE
-hw5/Employee.java0 0(Ì
-=com.softserve.hometasks.hometask1.hw5.Employee.setSalary(int)METHOD
-hw5/Employee.java4 4("
-isFinalfalse"≠
-declarationStringó<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setSalary</mark>(<mark class="modifier">int</mark> salary)"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*	setSalary2i
-Dcom.softserve.hometasks.hometask1.hw5.Employee.setSalary(int)!salaryCALL
-hw5/Employee.java5 5(2e
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14CALL
-hw5/Employee.java5 5(2n
-Dcom.softserve.hometasks.hometask1.hw5.Employee.setSalary(int)!salary	PARAMETER
-hw5/Employee.java4 4($20
-voidRETURN_TYPE
-hw5/Employee.java4 4(˛
-Dcom.softserve.hometasks.hometask1.hw5.Employee.setSalary(int)!salary	PARAMETER
-hw5/Employee.java4 4($"
-typeint"
-isFinalfalse"=
-declarationString(<mark class="modifier">int</mark> salary*salary2(
-intTYPE
-hw5/Employee.java4 4(◊
-?com.softserve.hometasks.hometask1.hw5.Employee?name@12.11:12.15VARIABLE
-hw5/Employee.java ("
-isFinalfalse"
-typeString"`
-declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>"
-isStaticfalse"
-accesspackage_private*name25
-java.lang.StringTYPE
-hw5/Employee.java (
-Ò
-Ccom.softserve.hometasks.hometask1.hw5.Employee?depNumber@13.8:13.17VARIABLE
-hw5/Employee.java ("
-isFinalfalse"
-typeint"Ä
-declarationStringk<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">depNumber</mark>"
-isStaticfalse"
-accesspackage_private*	depNumber2(
-intTYPE
-hw5/Employee.java (Á
-@com.softserve.hometasks.hometask1.hw5.Employee?salary@14.8:14.14VARIABLE
-hw5/Employee.java ("
-isFinalfalse"
-typeint"}
-declarationStringh<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">salary</mark>"
-isStaticfalse"
-accesspackage_private*salary2(
-intTYPE
-hw5/Employee.java (

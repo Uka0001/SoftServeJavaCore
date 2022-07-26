@@ -1,78 +1,0 @@
-
-hw4/pt1.javaž
-)com.softserve.hometasks.hometask1.hw4.pt1CLASS
-hw4/pt1.java ("0
-package%com.softserve.hometasks.hometask1.hw4"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"a
-declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>pt1"
-accesspublic*pt12i
-Bcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])DECLARATION
-hw4/pt1.java (ñ
-Bcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])METHOD
-hw4/pt1.java ("
-isFinalfalse"²
-declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
-isStatictrue"
-accesspublic"
-
-isAbstractfalse"
-typevoid*main2M
--java.io.PrintStream.println(java.lang.String)CALL
-hw4/pt1.java (2n
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13CALL
-hw4/pt1.java (2n
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13CALL
-hw4/pt1.java (2t
-Tcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?numbers@4.14:4.21CALL
-hw4/pt1.java (2n
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13CALL
-hw4/pt1.java( ()2t
-Tcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?numbers@4.14:4.21CALL
-hw4/pt1.java (2n
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13CALL
-hw4/pt1.java (2v
-Vcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?oddNumber@6.12:6.21CALL
-hw4/pt1.java	 	(2v
-Vcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?oddNumber@6.12:6.21CALL
-hw4/pt1.java* (32l
-Gcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])!args	PARAMETER
-hw4/pt1.java% ()2{
-Tcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?numbers@4.14:4.21DECLARATION
-hw4/pt1.java (2u
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13DECLARATION
-hw4/pt1.java (2}
-Vcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?oddNumber@6.12:6.21DECLARATION
-hw4/pt1.java (2+
-voidRETURN_TYPE
-hw4/pt1.java (Ø
-Tcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?numbers@4.14:4.21VARIABLE
-hw4/pt1.java ("
-typeint"
-isFinalfalse"Ž
-declarationStringy<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">numbers</mark> = { 1, 2, 3 }*numbers2%
-int[]TYPE
-hw4/pt1.java (³
-Ncom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?i@5.12:5.13VARIABLE
-hw4/pt1.java ("
-typeint"
-isFinalfalse"x
-declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2#
-intTYPE
-hw4/pt1.java (Ð
-Vcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])?oddNumber@6.12:6.21VARIABLE
-hw4/pt1.java ("
-typeint"
-isFinalfalse"„
-declarationStringo<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">oddNumber</mark> = 0*	oddNumber2#
-intTYPE
-hw4/pt1.java (î
-Gcom.softserve.hometasks.hometask1.hw4.pt1.main(java.lang.String[])!args	PARAMETER
-hw4/pt1.java% ()"
-typeString[]"
-isFinalfalse""
-declarationStringString[] args*args22
-java.lang.String[]TYPE
-hw4/pt1.java ($

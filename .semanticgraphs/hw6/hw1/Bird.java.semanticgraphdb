@@ -1,65 +1,0 @@
-
-hw6/hw1/Bird.javaê
-.com.softserve.hometasks.hometask1.hw6.hw1.BirdCLASS
-hw6/hw1/Bird.java ("4
-package)com.softserve.hometasks.hometask1.hw6.hw1"
-isFinalfalse"
-inner classfalse"
-
-isAbstracttrue"â
-declarationStringt<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Bird"
-accesspublic*Bird2`
-4com.softserve.hometasks.hometask1.hw6.hw1.Bird.fly()DECLARATION
-hw6/hw1/Bird.java (2e
-9com.softserve.hometasks.hometask1.hw6.hw1.Bird.toString()DECLARATION
-hw6/hw1/Bird.java (2m
-Acom.softserve.hometasks.hometask1.hw6.hw1.Bird?feathers@3.12:3.20DECLARATION
-hw6/hw1/Bird.java (2l
-@com.softserve.hometasks.hometask1.hw6.hw1.Bird?layEggs@4.12:4.19DECLARATION
-hw6/hw1/Bird.java (ù
-4com.softserve.hometasks.hometask1.hw6.hw1.Bird.fly()METHOD
-hw6/hw1/Bird.java ("
-isFinalfalse"©
-declarationStringì<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">boolean</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstracttrue"
-typeboolean*fly23
-booleanRETURN_TYPE
-hw6/hw1/Bird.java (Ï
-9com.softserve.hometasks.hometask1.hw6.hw1.Bird.toString()METHOD
-hw6/hw1/Bird.java ("
-isFinalfalse"ñ
-declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typeString*toString2f
-Acom.softserve.hometasks.hometask1.hw6.hw1.Bird?feathers@3.12:3.20CALL
-hw6/hw1/Bird.java
- 
-(&2e
-@com.softserve.hometasks.hometask1.hw6.hw1.Bird?layEggs@4.12:4.19CALL
-hw6/hw1/Bird.java (&2<
-java.lang.StringRETURN_TYPE
-hw6/hw1/Bird.java (˘
-Acom.softserve.hometasks.hometask1.hw6.hw1.Bird?feathers@3.12:3.20VARIABLE
-hw6/hw1/Bird.java ("
-isFinalfalse"
-typeboolean"É
-declarationStringn<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">feathers</mark>"
-isStaticfalse"
-accesspackage_private*feathers2,
-booleanTYPE
-hw6/hw1/Bird.java (ˆ
-@com.softserve.hometasks.hometask1.hw6.hw1.Bird?layEggs@4.12:4.19VARIABLE
-hw6/hw1/Bird.java ("
-isFinalfalse"
-typeboolean"Ç
-declarationStringm<mark class="modifier"> </mark><mark class="modifier">boolean</mark> <mark class="class-field">layEggs</mark>"
-isStaticfalse"
-accesspackage_private*layEggs2,
-booleanTYPE
-hw6/hw1/Bird.java (

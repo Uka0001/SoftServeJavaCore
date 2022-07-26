@@ -1,5 +1,5 @@
 package com.softserve.hometasks.hometask1.hw4;
-
+//Enter the number of the day of the week. Display the name in three languages.
 public class pt2 {
     public static void main(String[] args) {
         ConvertDaystoId(1);

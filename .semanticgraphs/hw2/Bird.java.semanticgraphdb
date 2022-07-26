@@ -1,109 +1,0 @@
-
-hw2/Bird.javaÖ
-*com.softserve.hometasks.hometask1.hw2.BirdCLASS
-hw2/Bird.java ("0
-package%com.softserve.hometasks.hometask1.hw2"
-isFinalfalse"
-inner classfalse"
-
-isAbstracttrue"â
-declarationStringt<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">class </mark>Bird"
-accesspublic*Bird2X
-0com.softserve.hometasks.hometask1.hw2.Bird.fly()DECLARATION
-hw2/Bird.java (2e
-=com.softserve.hometasks.hometask1.hw2.Bird?feathers@3.11:3.19DECLARATION
-hw2/Bird.java (2d
-<com.softserve.hometasks.hometask1.hw2.Bird?layEggs@4.11:4.18DECLARATION
-hw2/Bird.java (à
-0com.softserve.hometasks.hometask1.hw2.Bird.fly()METHOD
-hw2/Bird.java ("
-isFinalfalse"¶
-declarationStringê<mark class="modifier">public </mark><mark class="modifier">abstract </mark><mark class="modifier">void</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstracttrue"
-typevoid*fly2,
-voidRETURN_TYPE
-hw2/Bird.java (’
-=com.softserve.hometasks.hometask1.hw2.Bird?feathers@3.11:3.19VARIABLE
-hw2/Bird.java ("
-isFinalfalse"
-typeString"d
-declarationStringO<mark class="modifier"> </mark>String <mark class="class-field">feathers</mark>"
-isStaticfalse"
-accesspackage_private*feathers21
-java.lang.StringTYPE
-hw2/Bird.java (
-“
-<com.softserve.hometasks.hometask1.hw2.Bird?layEggs@4.11:4.18VARIABLE
-hw2/Bird.java ("
-isFinalfalse"
-typeString"c
-declarationStringN<mark class="modifier"> </mark>String <mark class="class-field">layEggs</mark>"
-isStaticfalse"
-accesspackage_private*layEggs21
-java.lang.StringTYPE
-hw2/Bird.java (
-ß
-0com.softserve.hometasks.hometask1.hw2.FlyingBirdCLASS
-hw2/Bird.java ("0
-package%com.softserve.hometasks.hometask1.hw2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ç
-declarationStringx<mark class="modifier"> </mark><mark class="modifier">class </mark>FlyingBird<mark class="modifier"> extends </mark>Bird"
-accesspackage_private*
-FlyingBird2^
-6com.softserve.hometasks.hometask1.hw2.FlyingBird.fly()DECLARATION
-hw2/Bird.java
- 
-(2M
-*com.softserve.hometasks.hometask1.hw2.BirdEXTEND
-hw2/Bird.java (Ì
-6com.softserve.hometasks.hometask1.hw2.FlyingBird.fly()METHOD
-hw2/Bird.java
- 
-("
-isFinalfalse"≠
-declarationStringó<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*fly2U
-0com.softserve.hometasks.hometask1.hw2.Bird.fly()OVERRIDE
-hw2/Bird.java
- 
-(2,
-voidRETURN_TYPE
-hw2/Bird.java
- 
-(≥
-3com.softserve.hometasks.hometask1.hw2.NonFlyingBirdCLASS
-hw2/Bird.java ("0
-package%com.softserve.hometasks.hometask1.hw2"
-isFinalfalse"
-inner classfalse"
-
-isAbstractfalse"ê
-declarationString{<mark class="modifier"> </mark><mark class="modifier">class </mark>NonFlyingBird<mark class="modifier"> extends </mark>Bird"
-accesspackage_private*NonFlyingBird2a
-9com.softserve.hometasks.hometask1.hw2.NonFlyingBird.fly()DECLARATION
-hw2/Bird.java (2M
-*com.softserve.hometasks.hometask1.hw2.BirdEXTEND
-hw2/Bird.java ( ¿
-9com.softserve.hometasks.hometask1.hw2.NonFlyingBird.fly()METHOD
-hw2/Bird.java ("
-isFinalfalse"~
-declarationStringi<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">fly</mark>()"
-isStaticfalse"
-accesspublic"
-
-isAbstractfalse"
-typevoid*fly2U
-0com.softserve.hometasks.hometask1.hw2.Bird.fly()OVERRIDE
-hw2/Bird.java (2,
-voidRETURN_TYPE
-hw2/Bird.java (
