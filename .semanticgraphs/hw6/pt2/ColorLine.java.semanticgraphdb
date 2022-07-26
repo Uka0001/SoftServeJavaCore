@@ -1,0 +1,94 @@
+
+hw6/pt2/ColorLine.javaš
+3com.softserve.hometasks.hometask1.hw6.pt2.ColorLineCLASS 
+hw6/pt2/ColorLine.java ("4
+package)com.softserve.hometasks.hometask1.hw6.pt2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"Œ
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">class </mark>ColorLine<mark class="modifier"> extends </mark>Line"
+accesspackage_private*	ColorLine2Š
+Ycom.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)DECLARATION 
+hw6/pt2/ColorLine.java (2o
+>com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.toString()DECLARATION 
+hw6/pt2/ColorLine.java (2l
+;com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.print()DECLARATION 
+hw6/pt2/ColorLine.java	 (2t
+Ccom.softserve.hometasks.hometask1.hw6.pt2.ColorLine?color@3.11:3.16DECLARATION 
+hw6/pt2/ColorLine.java (20
+LineEXTEND 
+hw6/pt2/ColorLine.java (ä
+Ycom.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)CONSTRUCTOR 
+hw6/pt2/ColorLine.java ("°
+declarationStringš<mark class="modifier">public </mark><mark class="method">ColorLine</mark>(<mark class="modifier">int</mark> x<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y<mark class="modifier"><mark class="modifier">,</mark></mark> String color)*	ColorLine2…
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!xCALL 
+hw6/pt2/ColorLine.java (2…
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!yCALL 
+hw6/pt2/ColorLine.java (2‰
+_com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!colorCALL 
+hw6/pt2/ColorLine.java (2m
+Ccom.softserve.hometasks.hometask1.hw6.pt2.ColorLine?color@3.11:3.16CALL 
+hw6/pt2/ColorLine.java (2Š
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!x	PARAMETER 
+hw6/pt2/ColorLine.java (2Š
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!y	PARAMETER 
+hw6/pt2/ColorLine.java  (!2Ž
+_com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!color	PARAMETER 
+hw6/pt2/ColorLine.java* (/2d
+3com.softserve.hometasks.hometask1.hw6.pt2.ColorLineRETURN_TYPE 
+hw6/pt2/ColorLine.java (•
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!x	PARAMETER 
+hw6/pt2/ColorLine.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2-
+intTYPE 
+hw6/pt2/ColorLine.java (•
+[com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!y	PARAMETER 
+hw6/pt2/ColorLine.java  (!"
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2-
+intTYPE 
+hw6/pt2/ColorLine.java (–
+_com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.ColorLine(int, int, java.lang.String)!color	PARAMETER 
+hw6/pt2/ColorLine.java* (/"
+typeString"
+isFinalfalse"!
+declarationStringString color*color2:
+java.lang.StringTYPE 
+hw6/pt2/ColorLine.java# ()¬
+>com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.toString()METHOD 
+hw6/pt2/ColorLine.java ("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2A
+java.lang.StringRETURN_TYPE 
+hw6/pt2/ColorLine.java (ó
+;com.softserve.hometasks.hometask1.hw6.pt2.ColorLine.print()METHOD 
+hw6/pt2/ColorLine.java	 ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">print</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*print2m
+Ccom.softserve.hometasks.hometask1.hw6.pt2.ColorLine?color@3.11:3.16CALL 
+hw6/pt2/ColorLine.java? (D25
+voidRETURN_TYPE 
+hw6/pt2/ColorLine.java (ç
+Ccom.softserve.hometasks.hometask1.hw6.pt2.ColorLine?color@3.11:3.16VARIABLE 
+hw6/pt2/ColorLine.java ("
+isFinalfalse"
+typeString"a
+declarationStringL<mark class="modifier"> </mark>String <mark class="class-field">color</mark>"
+isStaticfalse"
+accesspackage_private*color2:
+java.lang.StringTYPE 
+hw6/pt2/ColorLine.java (

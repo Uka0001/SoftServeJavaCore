@@ -1,0 +1,26 @@
+
+hw6/hw1/Penguin.java«
+1com.softserve.hometasks.hometask1.hw6.hw1.PenguinCLASS
+hw6/hw1/Penguin.java ("4
+package)com.softserve.hometasks.hometask1.hw6.hw1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"š
+declarationString„<mark class="modifier">public </mark><mark class="modifier">class </mark>Penguin<mark class="modifier"> extends </mark>NonFlyingBird"
+accesspublic*Penguin2k
+<com.softserve.hometasks.hometask1.hw6.hw1.Penguin.toString()DECLARATION
+hw6/hw1/Penguin.java (27
+NonFlyingBirdEXTEND
+hw6/hw1/Penguin.java (*¦
+<com.softserve.hometasks.hometask1.hw6.hw1.Penguin.toString()METHOD
+hw6/hw1/Penguin.java ("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2?
+java.lang.StringRETURN_TYPE
+hw6/hw1/Penguin.java (

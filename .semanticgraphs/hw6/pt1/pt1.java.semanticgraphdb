@@ -1,0 +1,83 @@
+
+hw6/pt1/pt1.java≤
+-com.softserve.hometasks.hometask1.hw6.pt1.pt1CLASS
+hw6/pt1/pt1.java ("4
+package)com.softserve.hometasks.hometask1.hw6.pt1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>pt1"
+accesspublic*pt12q
+Fcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])DECLARATION
+hw6/pt1/pt1.java (∫
+Fcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])METHOD
+hw6/pt1/pt1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20CALL
+hw6/pt1/pt1.java (2z
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?one@17.10:17.13CALL
+hw6/pt1/pt1.java (2Å
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20CALL
+hw6/pt1/pt1.java (2z
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?two@18.10:18.13CALL
+hw6/pt1/pt1.java (2z
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?one@17.10:17.13CALL
+hw6/pt1/pt1.java ("2z
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?two@18.10:18.13CALL
+hw6/pt1/pt1.java (2Å
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20CALL
+hw6/pt1/pt1.java' (12Å
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20CALL
+hw6/pt1/pt1.java (!2t
+Kcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])!args	PARAMETER
+hw6/pt1/pt1.java% ()2Å
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?one@17.10:17.13DECLARATION
+hw6/pt1/pt1.java
+ (2Å
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?two@18.10:18.13DECLARATION
+hw6/pt1/pt1.java
+ (2à
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20DECLARATION
+hw6/pt1/pt1.java
+ (2/
+voidRETURN_TYPE
+hw6/pt1/pt1.java (Ó
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?one@17.10:17.13VARIABLE
+hw6/pt1/pt1.java
+ ("
+typeSedan"
+isFinalfalse"ú
+declarationStringÜ<mark class="modifier"> </mark>Sedan <mark class="class-field">one</mark> = new Sedan("Jeep"<mark class="modifier">,</mark> 180, 2008)*one2)
+SedanTYPE
+hw6/pt1/pt1.java (	Ì
+Vcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?two@18.10:18.13VARIABLE
+hw6/pt1/pt1.java
+ ("
+typeTruck"
+isFinalfalse"õ
+declarationStringÖ<mark class="modifier"> </mark>Truck <mark class="class-field">two</mark> = new Truck("MAN"<mark class="modifier">,</mark> 180, 2009)*two2)
+TruckTYPE
+hw6/pt1/pt1.java (	œ
+]com.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])?carObjects@20.10:20.20VARIABLE
+hw6/pt1/pt1.java
+ ("
+typeCar"
+isFinalfalse"r
+declarationString]<mark class="modifier"> </mark>Car[] <mark class="class-field">carObjects</mark> = new Car[2]*
+carObjects2)
+Car[]TYPE
+hw6/pt1/pt1.java (	˙
+Kcom.softserve.hometasks.hometask1.hw6.pt1.pt1.main(java.lang.String[])!args	PARAMETER
+hw6/pt1/pt1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args26
+java.lang.String[]TYPE
+hw6/pt1/pt1.java ($

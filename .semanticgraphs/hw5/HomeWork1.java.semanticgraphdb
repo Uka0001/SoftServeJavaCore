@@ -1,0 +1,126 @@
+
+hw5/HomeWork1.java¬
+/com.softserve.hometasks.hometask1.hw5.HomeWork1CLASS
+hw5/HomeWork1.java ("0
+package%com.softserve.hometasks.hometask1.hw5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"g
+declarationStringR<mark class="modifier">public </mark><mark class="modifier">class </mark>HomeWork1"
+accesspublic*	HomeWork12u
+Hcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])DECLARATION
+hw5/HomeWork1.java (√!
+Hcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])METHOD
+hw5/HomeWork1.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java
+ 
+(2A
+java.util.Scanner.nextInt()CALL
+hw5/HomeWork1.java (2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java ("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java! !("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java$ $("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java' '("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java* *("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java- -("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java0 0("2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw5/HomeWork1.java3 3("2?
+java.util.Scanner.close()CALL
+hw5/HomeWork1.java6 6(2T
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw5/HomeWork1.java	 	(%2Ä
+Zcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?scanner@9.16:9.23CALL
+hw5/HomeWork1.java (2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaI (T2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaJ (U2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaG (R2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaG (R2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaE (P2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.javaF (Q2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java!F !(Q2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java$H $(S2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java'K '(V2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java*I *(T2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java-J -(U2Ü
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26CALL
+hw5/HomeWork1.java0J 0(U2Ä
+Zcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?scanner@9.16:9.23CALL
+hw5/HomeWork1.java6 6(2x
+Mcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])!args	PARAMETER
+hw5/HomeWork1.java% ()2á
+Zcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?scanner@9.16:9.23DECLARATION
+hw5/HomeWork1.java	 	(2ç
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26DECLARATION
+hw5/HomeWork1.java (2É
+Vcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?i@12.12:12.13DECLARATION
+hw5/HomeWork1.java (21
+voidRETURN_TYPE
+hw5/HomeWork1.java (æ
+Zcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?scanner@9.16:9.23VARIABLE
+hw5/HomeWork1.java	 	("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner27
+java.util.ScannerTYPE
+hw5/HomeWork1.java	 	(2T
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw5/HomeWork1.java	 	(%†
+`com.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?daysInMonth@11.15:11.26VARIABLE
+hw5/HomeWork1.java ("
+typeint"
+isFinalfalse"∫
+declarationString§<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">daysInMonth</mark> = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }*daysInMonth2+
+int[]TYPE
+hw5/HomeWork1.java («
+Vcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])?i@12.12:12.13VARIABLE
+hw5/HomeWork1.java ("
+typeint"
+isFinalfalse"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark>*i2)
+intTYPE
+hw5/HomeWork1.java (Ä
+Mcom.softserve.hometasks.hometask1.hw5.HomeWork1.main(java.lang.String[])!args	PARAMETER
+hw5/HomeWork1.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args28
+java.lang.String[]TYPE
+hw5/HomeWork1.java ($

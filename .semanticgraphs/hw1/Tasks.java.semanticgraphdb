@@ -1,0 +1,145 @@
+
+hw1/Tasks.java¬
+3com.softserve.hometasks.hometask1.TestUka0001.TasksCLASS
+hw1/Tasks.java ("8
+package-com.softserve.hometasks.hometask1.TestUka0001"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"c
+declarationStringN<mark class="modifier">public </mark><mark class="modifier">class </mark>Tasks"
+accesspublic*Tasks2u
+Lcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])DECLARATION
+hw1/Tasks.java (º
+Lcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])METHOD
+hw1/Tasks.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2=
+java.util.Scanner.nextInt()CALL
+hw1/Tasks.java (2=
+java.util.Scanner.nextInt()CALL
+hw1/Tasks.java (2>
+java.util.Scanner.nextLine()CALL
+hw1/Tasks.java	 	(2B
+ java.io.PrintStream.println(int)CALL
+hw1/Tasks.java
+ 
+(2B
+ java.io.PrintStream.println(int)CALL
+hw1/Tasks.java (2B
+ java.io.PrintStream.println(int)CALL
+hw1/Tasks.java (2B
+ java.io.PrintStream.println(int)CALL
+hw1/Tasks.java (2O
+-java.io.PrintStream.println(java.lang.String)CALL
+hw1/Tasks.java (2>
+java.util.Scanner.nextLine()CALL
+hw1/Tasks.java  ((2;
+java.util.Scanner.close()CALL
+hw1/Tasks.java (2O
+-java.io.PrintStream.println(java.lang.String)CALL
+hw1/Tasks.java (2;
+java.util.Scanner.close()CALL
+hw1/Tasks.java (2P
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw1/Tasks.java (%2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java	 	(2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13CALL
+hw1/Tasks.java
+ 
+(2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13CALL
+hw1/Tasks.java
+ 
+( 2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13CALL
+hw1/Tasks.java (2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13CALL
+hw1/Tasks.java ( 2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13CALL
+hw1/Tasks.java (2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13CALL
+hw1/Tasks.java ( 2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13CALL
+hw1/Tasks.java (2z
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13CALL
+hw1/Tasks.java ( 2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (2Å
+_com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?answer@16.15:16.21CALL
+hw1/Tasks.java( (.2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (2x
+Qcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])!args	PARAMETER
+hw1/Tasks.java% ()2á
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23DECLARATION
+hw1/Tasks.java (2Å
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13DECLARATION
+hw1/Tasks.java (2Å
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13DECLARATION
+hw1/Tasks.java (2à
+_com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?answer@16.15:16.21DECLARATION
+hw1/Tasks.java (2-
+voidRETURN_TYPE
+hw1/Tasks.java (∂
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23VARIABLE
+hw1/Tasks.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner23
+java.util.ScannerTYPE
+hw1/Tasks.java (2P
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw1/Tasks.java (%ò
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?a@7.12:7.13VARIABLE
+hw1/Tasks.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">a</mark> = scanner.nextInt()*a2%
+intTYPE
+hw1/Tasks.java (2=
+java.util.Scanner.nextInt()CALL
+hw1/Tasks.java (2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (ò
+Xcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?b@8.12:8.13VARIABLE
+hw1/Tasks.java ("
+typeint"
+isFinalfalse"å
+declarationStringw<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">b</mark> = scanner.nextInt()*b2%
+intTYPE
+hw1/Tasks.java (2=
+java.util.Scanner.nextInt()CALL
+hw1/Tasks.java (2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (ü
+_com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?answer@16.15:16.21VARIABLE
+hw1/Tasks.java ("
+typeString"
+isFinalfalse"w
+declarationStringb<mark class="modifier"> </mark>String <mark class="class-field">answer</mark> = scanner.nextLine()*answer22
+java.lang.StringTYPE
+hw1/Tasks.java (2>
+java.util.Scanner.nextLine()CALL
+hw1/Tasks.java  ((2Ä
+^com.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Tasks.java (¸
+Qcom.softserve.hometasks.hometask1.TestUka0001.Tasks.main(java.lang.String[])!args	PARAMETER
+hw1/Tasks.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args24
+java.lang.String[]TYPE
+hw1/Tasks.java ($

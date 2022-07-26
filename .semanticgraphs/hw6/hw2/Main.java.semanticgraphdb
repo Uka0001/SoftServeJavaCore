@@ -1,0 +1,61 @@
+
+hw6/hw2/Main.java∏
+.com.softserve.hometasks.hometask1.hw6.hw2.MainCLASS
+hw6/hw2/Main.java ("4
+package)com.softserve.hometasks.hometask1.hw6.hw2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2s
+Gcom.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])DECLARATION
+hw6/hw2/Main.java (œ
+
+Gcom.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])METHOD
+hw6/hw2/Main.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2Å
+\com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?developer1@5.18:5.28CALL
+hw6/hw2/Main.java (2Ä
+[com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?employee1@4.17:4.26CALL
+hw6/hw2/Main.java (2Å
+\com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?developer1@5.18:5.28CALL
+hw6/hw2/Main.java (%2Ä
+[com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?employee1@4.17:4.26CALL
+hw6/hw2/Main.java	 	($2v
+Lcom.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])!args	PARAMETER
+hw6/hw2/Main.java% ()2á
+[com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?employee1@4.17:4.26DECLARATION
+hw6/hw2/Main.java (2à
+\com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?developer1@5.18:5.28DECLARATION
+hw6/hw2/Main.java (20
+voidRETURN_TYPE
+hw6/hw2/Main.java (ç
+[com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?employee1@4.17:4.26VARIABLE
+hw6/hw2/Main.java ("
+typeEmployee"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark>Employee <mark class="class-field">employee1</mark> = new Employee("Jone"<mark class="modifier">,</mark> 23, 45.05)*	employee12-
+EmployeeTYPE
+hw6/hw2/Main.java (ü
+\com.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])?developer1@5.18:5.28VARIABLE
+hw6/hw2/Main.java ("
+type	Developer"
+isFinalfalse"∂
+declarationString†<mark class="modifier"> </mark>Developer <mark class="class-field">developer1</mark> = new Developer("Fil"<mark class="modifier">,</mark> 45, 56.05, "Java dev")*
+developer12.
+	DeveloperTYPE
+hw6/hw2/Main.java (˝
+Lcom.softserve.hometasks.hometask1.hw6.hw2.Main.main(java.lang.String[])!args	PARAMETER
+hw6/hw2/Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args27
+java.lang.String[]TYPE
+hw6/hw2/Main.java ($

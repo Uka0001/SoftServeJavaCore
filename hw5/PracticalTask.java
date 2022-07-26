@@ -89,59 +89,5 @@ public class PracticalTask {
 
         System.out.println("Numbers = " + elements);
         System.out.println("Position of element with value 7 is " + index);*/
-        /*Employee one = new Employee("Alex",1, 100);
-        Employee two = new Employee("Ale",2, 200);
-        Employee three = new Employee("Alx",3, 400);
-        Employee four = new Employee("Aex",4, 500);
-        Employee five = new Employee("lex",5, 150);*/
-
-        /*String [] employees = {String.valueOf(one), String.valueOf(two), String.valueOf(three), String.valueOf(four), String.valueOf(five)};
-        Arrays.sort(Employee.depNumber);???
-        String elements = Arrays.toString(employees);
-        System.out.println(elements);*/
     }
 }
-
-/*
-Create a class Employee with fields name, department number, salary. Create five objects of class Employee. Display
-all employees of a certain department (enter department number in the console);
-arrange workers by the field salary in descending order.
- */
-/*
-class Employee {
-    Scanner scanner = new Scanner(System.in);
-    String name;
-    int depNumber;
-    int salary;
-
-
-    public Employee(String name, int depNumber, int salary) {
-        this.name = name;
-        this.depNumber = depNumber;
-        this.salary = salary;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getDepNumber() {
-        return depNumber;
-    }
-
-    public void setDepNumber(int depNumber) {
-        this.depNumber = scanner.nextInt();
-    }
-
-    public int getSalary() {
-        return salary;
-    }
-
-    public void setSalary(int salary) {
-        this.salary = salary;
-    }
-}*/

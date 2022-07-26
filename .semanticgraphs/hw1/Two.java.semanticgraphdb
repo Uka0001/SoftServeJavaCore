@@ -1,0 +1,96 @@
+
+hw1/Two.java¶
+1com.softserve.hometasks.hometask1.TestUka0001.TwoCLASS
+hw1/Two.java ("8
+package-com.softserve.hometasks.hometask1.TestUka0001"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"a
+declarationStringL<mark class="modifier">public </mark><mark class="modifier">class </mark>Two"
+accesspublic*Two2q
+Jcom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])DECLARATION
+hw1/Two.java (’
+Jcom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])METHOD
+hw1/Two.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2M
+-java.io.PrintStream.println(java.lang.String)CALL
+hw1/Two.java	 	(2<
+java.util.Scanner.nextLine()CALL
+hw1/Two.java
+ 
+(2M
+-java.io.PrintStream.println(java.lang.String)CALL
+hw1/Two.java (2<
+java.util.Scanner.nextLine()CALL
+hw1/Two.java ("2M
+-java.io.PrintStream.println(java.lang.String)CALL
+hw1/Two.java (29
+java.util.Scanner.close()CALL
+hw1/Two.java (2N
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw1/Two.java (%2y
+Ycom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?name@7.15:7.19CALL
+hw1/Two.java
+ 
+(2|
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Two.java
+ 
+(2y
+Ycom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?name@7.15:7.19CALL
+hw1/Two.java2 (62|
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?address@8.15:8.22CALL
+hw1/Two.java (2|
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Two.java (2|
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?address@8.15:8.22CALL
+hw1/Two.java ("2|
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?scanner@6.16:6.23CALL
+hw1/Two.java (2t
+Ocom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])!args	PARAMETER
+hw1/Two.java% ()2ƒ
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?scanner@6.16:6.23DECLARATION
+hw1/Two.java (2€
+Ycom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?name@7.15:7.19DECLARATION
+hw1/Two.java (2ƒ
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?address@8.15:8.22DECLARATION
+hw1/Two.java (2+
+voidRETURN_TYPE
+hw1/Two.java (®
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?scanner@6.16:6.23VARIABLE
+hw1/Two.java ("
+typeScanner"
+isFinalfalse"}
+declarationStringh<mark class="modifier"> </mark>Scanner <mark class="class-field">scanner</mark> = new Scanner(System.in)*scanner21
+java.util.ScannerTYPE
+hw1/Two.java (2N
+.java.util.Scanner.Scanner(java.io.InputStream)CALL
+hw1/Two.java (%¹
+Ycom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?name@7.15:7.19VARIABLE
+hw1/Two.java ("
+typeString"
+isFinalfalse"`
+declarationStringK<mark class="modifier"> </mark>String <mark class="class-field">name</mark>*name20
+java.lang.StringTYPE
+hw1/Two.java (Â
+\com.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])?address@8.15:8.22VARIABLE
+hw1/Two.java ("
+typeString"
+isFinalfalse"c
+declarationStringN<mark class="modifier"> </mark>String <mark class="class-field">address</mark>*address20
+java.lang.StringTYPE
+hw1/Two.java (ö
+Ocom.softserve.hometasks.hometask1.TestUka0001.Two.main(java.lang.String[])!args	PARAMETER
+hw1/Two.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args22
+java.lang.String[]TYPE
+hw1/Two.java ($

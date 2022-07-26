@@ -1,0 +1,67 @@
+
+hw6/pt1/Truck.java‹
+/com.softserve.hometasks.hometask1.hw6.pt1.TruckCLASS
+hw6/pt1/Truck.java ("4
+package)com.softserve.hometasks.hometask1.hw6.pt1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">class </mark>Truck<mark class="modifier"> extends </mark>Car"
+accesspackage_private*Truck2~
+Qcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)DECLARATION
+hw6/pt1/Truck.java (2g
+:com.softserve.hometasks.hometask1.hw6.pt1.Truck.toString()DECLARATION
+hw6/pt1/Truck.java	 	(2+
+CarEXTEND
+hw6/pt1/Truck.java (Õ
+
+Qcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)CONSTRUCTOR
+hw6/pt1/Truck.java ("Ã
+declarationString­<mark class="modifier">public </mark><mark class="method">Truck</mark>(String model<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> maxSpeed<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> yearOfManufacture)*Truck2}
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!modelCALL
+hw6/pt1/Truck.java (2€
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!maxSpeedCALL
+hw6/pt1/Truck.java (2‰
+ccom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!yearOfManufactureCALL
+hw6/pt1/Truck.java (02‚
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!model	PARAMETER
+hw6/pt1/Truck.java (2…
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!maxSpeed	PARAMETER
+hw6/pt1/Truck.java# (+2Ž
+ccom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!yearOfManufacture	PARAMETER
+hw6/pt1/Truck.java1 (B2\
+/com.softserve.hometasks.hometask1.hw6.pt1.TruckRETURN_TYPE
+hw6/pt1/Truck.java (†
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!model	PARAMETER
+hw6/pt1/Truck.java ("
+typeString"
+isFinalfalse"!
+declarationStringString model*model26
+java.lang.StringTYPE
+hw6/pt1/Truck.java (š
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!maxSpeed	PARAMETER
+hw6/pt1/Truck.java# (+"
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> maxSpeed*maxSpeed2)
+intTYPE
+hw6/pt1/Truck.java ("µ
+ccom.softserve.hometasks.hometask1.hw6.pt1.Truck.Truck(java.lang.String, int, int)!yearOfManufacture	PARAMETER
+hw6/pt1/Truck.java1 (B"
+typeint"
+isFinalfalse"H
+declarationString3<mark class="modifier">int</mark> yearOfManufacture*yearOfManufacture2)
+intTYPE
+hw6/pt1/Truck.java- (0 
+:com.softserve.hometasks.hometask1.hw6.pt1.Truck.toString()METHOD
+hw6/pt1/Truck.java	 	("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2=
+java.lang.StringRETURN_TYPE
+hw6/pt1/Truck.java	 	(

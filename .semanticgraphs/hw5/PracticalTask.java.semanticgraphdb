@@ -1,0 +1,113 @@
+
+hw5/PracticalTask.java⁄
+3com.softserve.hometasks.hometask1.hw5.PracticalTaskCLASS 
+hw5/PracticalTask.java ("0
+package%com.softserve.hometasks.hometask1.hw5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"k
+declarationStringV<mark class="modifier">public </mark><mark class="modifier">class </mark>PracticalTask"
+accesspublic*PracticalTask2}
+Lcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])DECLARATION 
+hw5/PracticalTask.java (´
+Lcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])METHOD 
+hw5/PracticalTask.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2U
++java.io.PrintStream.print(java.lang.String)CALL 
+hw5/PracticalTask.java (2W
+-java.io.PrintStream.println(java.lang.String)CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19CALL 
+hw5/PracticalTask.java
+ 
+(2Ñ
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19CALL 
+hw5/PracticalTask.java (2Ñ
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?max@10.12:10.15CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?max@10.12:10.15CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19CALL 
+hw5/PracticalTask.java (2Ñ
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13CALL 
+hw5/PracticalTask.java (2á
+]com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?imax@11.12:11.16CALL 
+hw5/PracticalTask.java (2Ñ
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13CALL 
+hw5/PracticalTask.java (2Ñ
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13CALL 
+hw5/PracticalTask.java (2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?max@10.12:10.15CALL 
+hw5/PracticalTask.java. (12á
+]com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?imax@11.12:11.16CALL 
+hw5/PracticalTask.java( (,2Ä
+Qcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])!args	PARAMETER 
+hw5/PracticalTask.java% ()2ç
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19DECLARATION 
+hw5/PracticalTask.java (2ç
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?max@10.12:10.15DECLARATION 
+hw5/PracticalTask.java
+ 
+(2é
+]com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?imax@11.12:11.16DECLARATION 
+hw5/PracticalTask.java (2ã
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13DECLARATION 
+hw5/PracticalTask.java (25
+voidRETURN_TYPE 
+hw5/PracticalTask.java (å
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19VARIABLE 
+hw5/PracticalTask.java ("
+typeint"
+isFinalfalse"®
+declarationStringí<mark class="modifier"> </mark><mark class="modifier">int</mark>[] <mark class="class-field">array</mark> = { 1, -2, 3, -4, 5, -6, 7, -8, 9, -10 }*array2/
+int[]TYPE 
+hw5/PracticalTask.java (Ó
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?max@10.12:10.15VARIABLE 
+hw5/PracticalTask.java
+ 
+("
+typeint"
+isFinalfalse"Ö
+declarationStringp<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">max</mark> = array[0]*max2-
+intTYPE 
+hw5/PracticalTask.java
+ 
+(2Ü
+\com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?array@7.14:7.19CALL 
+hw5/PracticalTask.java
+ 
+(‡
+]com.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?imax@11.12:11.16VARIABLE 
+hw5/PracticalTask.java ("
+typeint"
+isFinalfalse"
+declarationStringj<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">imax</mark> = 0*imax2-
+intTYPE 
+hw5/PracticalTask.java (◊
+Zcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])?i@12.12:12.13VARIABLE 
+hw5/PracticalTask.java ("
+typeint"
+isFinalfalse"|
+declarationStringg<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">i</mark> = 0*i2-
+intTYPE 
+hw5/PracticalTask.java (å
+Qcom.softserve.hometasks.hometask1.hw5.PracticalTask.main(java.lang.String[])!args	PARAMETER 
+hw5/PracticalTask.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args2<
+java.lang.String[]TYPE 
+hw5/PracticalTask.java ($

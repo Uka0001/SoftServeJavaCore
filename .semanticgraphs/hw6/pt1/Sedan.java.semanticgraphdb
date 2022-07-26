@@ -1,0 +1,67 @@
+
+hw6/pt1/Sedan.java‹
+/com.softserve.hometasks.hometask1.hw6.pt1.SedanCLASS
+hw6/pt1/Sedan.java ("4
+package)com.softserve.hometasks.hometask1.hw6.pt1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"‡
+declarationStringr<mark class="modifier"> </mark><mark class="modifier">class </mark>Sedan<mark class="modifier"> extends </mark>Car"
+accesspackage_private*Sedan2~
+Qcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)DECLARATION
+hw6/pt1/Sedan.java (2g
+:com.softserve.hometasks.hometask1.hw6.pt1.Sedan.toString()DECLARATION
+hw6/pt1/Sedan.java	 	(2+
+CarEXTEND
+hw6/pt1/Sedan.java (Õ
+
+Qcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)CONSTRUCTOR
+hw6/pt1/Sedan.java ("Ã
+declarationString­<mark class="modifier">public </mark><mark class="method">Sedan</mark>(String model<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> maxSpeed<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> yearOfManufacture)*Sedan2}
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!modelCALL
+hw6/pt1/Sedan.java (2€
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!maxSpeedCALL
+hw6/pt1/Sedan.java (2‰
+ccom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!yearOfManufactureCALL
+hw6/pt1/Sedan.java (02‚
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!model	PARAMETER
+hw6/pt1/Sedan.java (2…
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!maxSpeed	PARAMETER
+hw6/pt1/Sedan.java# (+2Ž
+ccom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!yearOfManufacture	PARAMETER
+hw6/pt1/Sedan.java1 (B2\
+/com.softserve.hometasks.hometask1.hw6.pt1.SedanRETURN_TYPE
+hw6/pt1/Sedan.java (†
+Wcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!model	PARAMETER
+hw6/pt1/Sedan.java ("
+typeString"
+isFinalfalse"!
+declarationStringString model*model26
+java.lang.StringTYPE
+hw6/pt1/Sedan.java (š
+Zcom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!maxSpeed	PARAMETER
+hw6/pt1/Sedan.java# (+"
+typeint"
+isFinalfalse"?
+declarationString*<mark class="modifier">int</mark> maxSpeed*maxSpeed2)
+intTYPE
+hw6/pt1/Sedan.java ("µ
+ccom.softserve.hometasks.hometask1.hw6.pt1.Sedan.Sedan(java.lang.String, int, int)!yearOfManufacture	PARAMETER
+hw6/pt1/Sedan.java1 (B"
+typeint"
+isFinalfalse"H
+declarationString3<mark class="modifier">int</mark> yearOfManufacture*yearOfManufacture2)
+intTYPE
+hw6/pt1/Sedan.java- (0 
+:com.softserve.hometasks.hometask1.hw6.pt1.Sedan.toString()METHOD
+hw6/pt1/Sedan.java	 	("
+isFinalfalse"–
+declarationString€<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2=
+java.lang.StringRETURN_TYPE
+hw6/pt1/Sedan.java	 	(

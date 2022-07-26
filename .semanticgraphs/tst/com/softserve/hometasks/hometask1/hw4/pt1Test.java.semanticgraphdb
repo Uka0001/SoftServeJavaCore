@@ -1,0 +1,24 @@
+
+6tst/com/softserve/hometasks/hometask1/hw4/pt1Test.javañ
+-com.softserve.hometasks.hometask1.hw4.pt1TestCLASS@
+6tst/com/softserve/hometasks/hometask1/hw4/pt1Test.java ("0
+package%com.softserve.hometasks.hometask1.hw4"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"e
+declarationStringP<mark class="modifier">public </mark><mark class="modifier">class </mark>pt1Test"
+accesspublic*pt1Test2…
+4com.softserve.hometasks.hometask1.hw4.pt1Test.main()DECLARATION@
+6tst/com/softserve/hometasks/hometask1/hw4/pt1Test.java	 	(ä
+4com.softserve.hometasks.hometask1.hw4.pt1Test.main()METHOD@
+6tst/com/softserve/hometasks/hometask1/hw4/pt1Test.java	 	("
+isFinalfalse"ª
+declarationString”<mark class="annotation">@Test</mark> <br><mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">main</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2U
+voidRETURN_TYPE@
+6tst/com/softserve/hometasks/hometask1/hw4/pt1Test.java	 	(

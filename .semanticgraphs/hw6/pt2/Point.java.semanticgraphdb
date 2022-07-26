@@ -1,0 +1,182 @@
+
+hw6/pt2/Point.javaÒ	
+/com.softserve.hometasks.hometask1.hw6.pt2.PointCLASS
+hw6/pt2/Point.java ("4
+package)com.softserve.hometasks.hometask1.hw6.pt2"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"]
+declarationStringH<mark class="modifier"> </mark><mark class="modifier">class </mark>Point"
+accesspackage_private*Point2l
+?com.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)DECLARATION
+hw6/pt2/Point.java (2c
+6com.softserve.hometasks.hometask1.hw6.pt2.Point.getX()DECLARATION
+hw6/pt2/Point.java (2f
+9com.softserve.hometasks.hometask1.hw6.pt2.Point.setX(int)DECLARATION
+hw6/pt2/Point.java (2c
+6com.softserve.hometasks.hometask1.hw6.pt2.Point.getY()DECLARATION
+hw6/pt2/Point.java (2f
+9com.softserve.hometasks.hometask1.hw6.pt2.Point.setY(int)DECLARATION
+hw6/pt2/Point.java (2g
+:com.softserve.hometasks.hometask1.hw6.pt2.Point.toString()DECLARATION
+hw6/pt2/Point.java (2d
+7com.softserve.hometasks.hometask1.hw6.pt2.Point.print()DECLARATION
+hw6/pt2/Point.java 	  (2f
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9DECLARATION
+hw6/pt2/Point.java (	2f
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9DECLARATION
+hw6/pt2/Point.java (	¶
+?com.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)CONSTRUCTOR
+hw6/pt2/Point.java ("‚
+declarationStringÃ<mark class="modifier">public </mark><mark class="method">Point</mark>(<mark class="modifier">int</mark> x<mark class="modifier"><mark class="modifier">,</mark></mark> <mark class="modifier">int</mark> y)*Point2g
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!xCALL
+hw6/pt2/Point.java (2g
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!yCALL
+hw6/pt2/Point.java (2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9CALL
+hw6/pt2/Point.java (2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9CALL
+hw6/pt2/Point.java (2l
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!x	PARAMETER
+hw6/pt2/Point.java (2l
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!y	PARAMETER
+hw6/pt2/Point.java (2\
+/com.softserve.hometasks.hometask1.hw6.pt2.PointRETURN_TYPE
+hw6/pt2/Point.java (Û
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!x	PARAMETER
+hw6/pt2/Point.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2)
+intTYPE
+hw6/pt2/Point.java (Û
+Acom.softserve.hometasks.hometask1.hw6.pt2.Point.Point(int, int)!y	PARAMETER
+hw6/pt2/Point.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2)
+intTYPE
+hw6/pt2/Point.java (–
+6com.softserve.hometasks.hometask1.hw6.pt2.Point.getX()METHOD
+hw6/pt2/Point.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getX</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getX2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9CALL
+hw6/pt2/Point.java (20
+intRETURN_TYPE
+hw6/pt2/Point.java (∆
+9com.softserve.hometasks.hometask1.hw6.pt2.Point.setX(int)METHOD
+hw6/pt2/Point.java ("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setX</mark>(<mark class="modifier">int</mark> x)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setX2a
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setX(int)!xCALL
+hw6/pt2/Point.java (2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9CALL
+hw6/pt2/Point.java (2f
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setX(int)!x	PARAMETER
+hw6/pt2/Point.java (21
+voidRETURN_TYPE
+hw6/pt2/Point.java (Ì
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setX(int)!x	PARAMETER
+hw6/pt2/Point.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> x*x2)
+intTYPE
+hw6/pt2/Point.java (–
+6com.softserve.hometasks.hometask1.hw6.pt2.Point.getY()METHOD
+hw6/pt2/Point.java ("
+isFinalfalse"~
+declarationStringi<mark class="modifier">public </mark><mark class="modifier">int</mark> <mark class="method">getY</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeint*getY2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9CALL
+hw6/pt2/Point.java (20
+intRETURN_TYPE
+hw6/pt2/Point.java (∆
+9com.softserve.hometasks.hometask1.hw6.pt2.Point.setY(int)METHOD
+hw6/pt2/Point.java ("
+isFinalfalse"£
+declarationStringç<mark class="modifier">public </mark><mark class="modifier">void</mark> <mark class="method">setY</mark>(<mark class="modifier">int</mark> y)"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typevoid*setY2a
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setY(int)!yCALL
+hw6/pt2/Point.java (2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9CALL
+hw6/pt2/Point.java (2f
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setY(int)!y	PARAMETER
+hw6/pt2/Point.java (21
+voidRETURN_TYPE
+hw6/pt2/Point.java (Ì
+;com.softserve.hometasks.hometask1.hw6.pt2.Point.setY(int)!y	PARAMETER
+hw6/pt2/Point.java ("
+typeint"
+isFinalfalse"8
+declarationString#<mark class="modifier">int</mark> y*y2)
+intTYPE
+hw6/pt2/Point.java („
+:com.softserve.hometasks.hometask1.hw6.pt2.Point.toString()METHOD
+hw6/pt2/Point.java ("
+isFinalfalse"ñ
+declarationStringÄ<mark class="annotation">@Override</mark> <br><mark class="modifier">public </mark>String <mark class="method">toString</mark>()"
+isStaticfalse"
+accesspublic"
+
+isAbstractfalse"
+typeString*toString2A
+java.lang.Object.toString()CALL
+hw6/pt2/Point.java (2=
+java.lang.StringRETURN_TYPE
+hw6/pt2/Point.java (è
+7com.softserve.hometasks.hometask1.hw6.pt2.Point.print()METHOD
+hw6/pt2/Point.java 	  ("
+isFinalfalse"z
+declarationStringe<mark class="modifier"> </mark><mark class="modifier">void</mark> <mark class="method">print</mark>()"
+isStaticfalse"
+accesspackage_private"
+
+isAbstractfalse"
+typevoid*print2S
+-java.io.PrintStream.println(java.lang.String)CALL
+hw6/pt2/Point.java! !(2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9CALL
+hw6/pt2/Point.java!# !($2_
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9CALL
+hw6/pt2/Point.java!/ !(021
+voidRETURN_TYPE
+hw6/pt2/Point.java   (ÿ
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?x@3.8:3.9VARIABLE
+hw6/pt2/Point.java (	"
+isFinalfalse"
+typeint"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">x</mark>"
+isStaticfalse"
+accesspackage_private*x2)
+intTYPE
+hw6/pt2/Point.java (ÿ
+9com.softserve.hometasks.hometask1.hw6.pt2.Point?y@4.8:4.9VARIABLE
+hw6/pt2/Point.java (	"
+isFinalfalse"
+typeint"x
+declarationStringc<mark class="modifier"> </mark><mark class="modifier">int</mark> <mark class="class-field">y</mark>"
+isStaticfalse"
+accesspackage_private*y2)
+intTYPE
+hw6/pt2/Point.java (

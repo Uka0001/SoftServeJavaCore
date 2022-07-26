@@ -1,0 +1,122 @@
+
+hw6/hw1/Main.java∏
+.com.softserve.hometasks.hometask1.hw6.hw1.MainCLASS
+hw6/hw1/Main.java ("4
+package)com.softserve.hometasks.hometask1.hw6.hw1"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2s
+Gcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])DECLARATION
+hw6/hw1/Main.java (¢
+Gcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])METHOD
+hw6/hw1/Main.java ("
+isFinalfalse"≤
+declarationStringú<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2R
+-java.io.PrintStream.println(java.lang.String)CALL
+hw6/hw1/Main.java (2R
+-java.util.Arrays.toString(java.lang.Object[])CALL
+hw6/hw1/Main.java= (E2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24CALL
+hw6/hw1/Main.java# (+2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24CALL
+hw6/hw1/Main.java5 (=2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20CALL
+hw6/hw1/Main.javaH (N2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24CALL
+hw6/hw1/Main.javaY (a2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24CALL
+hw6/hw1/Main.java (2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24CALL
+hw6/hw1/Main.java (2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20CALL
+hw6/hw1/Main.java (2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24CALL
+hw6/hw1/Main.java (2~
+Ycom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?birds@13.18:13.23CALL
+hw6/hw1/Main.javaF (K2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24CALL
+hw6/hw1/Main.java1 (92Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24CALL
+hw6/hw1/Main.java1 (92
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20CALL
+hw6/hw1/Main.java/ (52Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24CALL
+hw6/hw1/Main.java1 (92v
+Lcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])!args	PARAMETER
+hw6/hw1/Main.java% ()2Ü
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24DECLARATION
+hw6/hw1/Main.java	 	(2à
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24DECLARATION
+hw6/hw1/Main.java
+ 
+(2Ü
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20DECLARATION
+hw6/hw1/Main.java (2à
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24DECLARATION
+hw6/hw1/Main.java (2Ö
+Ycom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?birds@13.18:13.23DECLARATION
+hw6/hw1/Main.java (20
+voidRETURN_TYPE
+hw6/hw1/Main.java (’
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24VARIABLE
+hw6/hw1/Main.java	 	("
+typeSwallow"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>Swallow <mark class="class-field">swallow1</mark> = new Swallow()*swallow12,
+SwallowTYPE
+hw6/hw1/Main.java	 	(◊
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24VARIABLE
+hw6/hw1/Main.java
+ 
+("
+typePenguin"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>Penguin <mark class="class-field">penguin1</mark> = new Penguin()*penguin12,
+PenguinTYPE
+hw6/hw1/Main.java
+ 
+(…
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20VARIABLE
+hw6/hw1/Main.java ("
+typeEagle"
+isFinalfalse"o
+declarationStringZ<mark class="modifier"> </mark>Eagle <mark class="class-field">eagle1</mark> = new Eagle()*eagle12*
+EagleTYPE
+hw6/hw1/Main.java (◊
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24VARIABLE
+hw6/hw1/Main.java ("
+typeChicken"
+isFinalfalse"u
+declarationString`<mark class="modifier"> </mark>Chicken <mark class="class-field">chicken1</mark> = new Chicken()*chicken12,
+ChickenTYPE
+hw6/hw1/Main.java (˛
+Ycom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?birds@13.18:13.23VARIABLE
+hw6/hw1/Main.java ("
+typeString"
+isFinalfalse"ç
+declarationString˜<mark class="modifier"> </mark>String[] <mark class="class-field">birds</mark> = { valueOf(swallow1)<mark class="modifier">,</mark> valueOf(penguin1)<mark class="modifier">,</mark> valueOf(eagle1)<mark class="modifier">,</mark> valueOf(chicken1) }*birds27
+java.lang.String[]TYPE
+hw6/hw1/Main.java (2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?swallow1@9.16:9.24CALL
+hw6/hw1/Main.java# (+2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?penguin1@10.16:10.24CALL
+hw6/hw1/Main.java5 (=2
+Zcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?eagle1@11.14:11.20CALL
+hw6/hw1/Main.javaH (N2Å
+\com.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])?chicken1@12.16:12.24CALL
+hw6/hw1/Main.javaY (a˝
+Lcom.softserve.hometasks.hometask1.hw6.hw1.Main.main(java.lang.String[])!args	PARAMETER
+hw6/hw1/Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args27
+java.lang.String[]TYPE
+hw6/hw1/Main.java ($

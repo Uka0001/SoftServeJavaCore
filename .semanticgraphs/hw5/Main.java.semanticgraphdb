@@ -1,0 +1,33 @@
+
+hw5/Main.java¤
+*com.softserve.hometasks.hometask1.hw5.MainCLASS
+hw5/Main.java ("0
+package%com.softserve.hometasks.hometask1.hw5"
+isFinalfalse"
+inner classfalse"
+
+isAbstractfalse"b
+declarationStringM<mark class="modifier">public </mark><mark class="modifier">class </mark>Main"
+accesspublic*Main2k
+Ccom.softserve.hometasks.hometask1.hw5.Main.main(java.lang.String[])DECLARATION
+hw5/Main.java (˜
+Ccom.softserve.hometasks.hometask1.hw5.Main.main(java.lang.String[])METHOD
+hw5/Main.java ("
+isFinalfalse"²
+declarationStringœ<mark class="modifier">public </mark><mark class="modifier">static </mark><mark class="modifier">void</mark> <mark class="method">main</mark>(String[] args)"
+isStatictrue"
+accesspublic"
+
+isAbstractfalse"
+typevoid*main2n
+Hcom.softserve.hometasks.hometask1.hw5.Main.main(java.lang.String[])!args	PARAMETER
+hw5/Main.java% ()2,
+voidRETURN_TYPE
+hw5/Main.java (ñ
+Hcom.softserve.hometasks.hometask1.hw5.Main.main(java.lang.String[])!args	PARAMETER
+hw5/Main.java% ()"
+typeString[]"
+isFinalfalse""
+declarationStringString[] args*args23
+java.lang.String[]TYPE
+hw5/Main.java ($
