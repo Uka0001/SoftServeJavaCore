@@ -1,6 +1,4 @@
-package com.softserve.hometasks.hometask1.hw7_OOP2.pt1;
-
-import java.util.Arrays;
+package com.softserve.hometasks.hometask1.hw7_OOP2_done.pt1;
 
 public class Main {
     public static void main(String[] args) {

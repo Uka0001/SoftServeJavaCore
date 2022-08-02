@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw7_OOP2.pt1;
+package com.softserve.hometasks.hometask1.hw7_OOP2_done.pt1;
 
 public class Dog implements Animal{
     @Override
