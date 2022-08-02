@@ -5,6 +5,9 @@ public class Main {
         String one = "Winter";
         String two = "Winter is coming";
 
+        System.out.println(two.contains(one));
+
+
     }
 }
 /*Enter the two variables of type String.

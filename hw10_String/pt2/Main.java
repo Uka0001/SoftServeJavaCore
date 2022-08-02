@@ -1,7 +1,15 @@
 package com.softserve.hometasks.hometask1.hw10_String.pt2;
 
+import java.util.SortedMap;
+
 public class Main {
     public static void main(String[] args) {
+        String surname = "Clinton";
+        String name = "Bill";
+        String patronymic = "Olehovich";
+        System.out.println(surname + " " + name.charAt(0) + "." + patronymic.charAt(0) + ".");
+        System.out.println(name);
+        System.out.println(name + " " + patronymic + " " + surname);
 
     }
 }
