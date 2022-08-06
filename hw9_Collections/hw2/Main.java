@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        //Create map personMap and add to it ten persons
+        //+Create map personMap and add to it ten persons
         // of type <String, String> (lastName, firstName).
         Map<String, String> personMap = new HashMap<>();
         personMap.put("Oleksii", "One");
@@ -18,25 +18,28 @@ public class Main {
         personMap.put("AlexC", "Six");
         personMap.put("Anton", "Ten");
 
-        //Output the entities of the map on the screen
-        System.out.println(personMap);
+        //+Output the entities of the map on the screen
+        System.out.println("Original Map: " + personMap);
 
         //There are at less two persons with the same
         // firstName among these 10 people?
+
+        //+Remove from the map person whose firstName is
+        // ”Orest” (or other). Print result.
         Set<Map.Entry<String, String>> entrySet = personMap.entrySet();
         Iterator<Map.Entry<String, String>> entryIterator = entrySet.iterator();
 
         while (entryIterator.hasNext()) {
             Map.Entry<String, String> entry = entryIterator.next();
 
-            if (entry.getKey().equals("Oleksii")) {
+            if (entry.getValue().equals("One")) {
                 System.out.println("Removing : " + entry);
                 entryIterator.remove();
             } else {
                 System.out.println("Nothing equal has found..." + entry);
             }
         }
-        System.out.println(personMap);
+        System.out.println("Changed Map: " + personMap);
 
 
     }
