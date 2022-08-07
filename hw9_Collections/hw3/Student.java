@@ -1,9 +1,10 @@
 package com.softserve.hometasks.hometask1.hw9_Collections.hw3;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.Scanner;
 
-public class Student extends Main {
+public class Student {
     private String name;
     private Integer course;
 
@@ -44,18 +45,18 @@ public class Student extends Main {
         this.course = course;
     }
 }
-/*Write class Student that provides information
- about the name of the student and his course.
- Class Student should consist of
-properties for access to these fields
-constructor with parameters
-method printStudents (List students, Integer course),
- which receives a list of students and the course
-  number and prints to the console the names of
-   the students from the list, which are taught in this course (use an iterator)
+/*+Write class Student that provides information
+ +about the name of the student and his course.
++ Class Student should consist of
++properties for access to these fields
++constructor with parameters
++method printStudents (List students, Integer course),
++which receives a list of students and the course
+number and prints to the console the names of
+the students from the list, which are taught in this course (use an iterator)
 methods to compare students by name and by course
-In the main() method
-declare List students and add to the list five different students
-display the list of students ordered by name
-display the list of students ordered by course.
++In the main() method
++declare List students and add to the list five different students
++display the list of students ordered by name
++display the list of students ordered by course.
 */

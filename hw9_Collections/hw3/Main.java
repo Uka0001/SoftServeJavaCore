@@ -1,9 +1,6 @@
 package com.softserve.hometasks.hometask1.hw9_Collections.hw3;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -28,6 +25,11 @@ public class Main {
             System.out.println("students ordered by name: "+ each.toString());
 
         }
+
+        /*System.out.println("Second method sorting: ");
+        Collections.sort(students,new Student.Name);
+        System.out.println("List of students sorted by name: "+ students);*/
+
         System.out.println();
         //display the list of students ordered by course
         students.sort(Comparator.comparing(Student::getCourse));
@@ -35,14 +37,21 @@ public class Main {
             System.out.println("students ordered by course: "+ each.toString());
         }
 
+        /*System.out.println("Second method sorting: ");
+        Collections.sort(List<Student> students,new Course().getCourse());
+        System.out.println("List of students sorted by course: "+ students);*/
+
         Scanner scanner = new Scanner(System.in);
         Integer consoleId = scanner.nextInt();
         scanner.close();
-        String nameConsole = String.valueOf(new printStudents());
-        System.out.println(nameConsole);
+        System.out.println();
+        System.out.println("These students: "+PrintStudents.printStudents(students,consoleId)+" are studying in this course: "+consoleId);
+
+
+
     }
 }
-/*In the main() method
-declare List students and add to the list five different students
-display the list of students ordered by name
-display the list of students ordered by course.*/
+/*+In the main() method
++declare List students and add to the list five different students
++display the list of students ordered by name
++display the list of students ordered by course.*/
