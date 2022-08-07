@@ -23,6 +23,10 @@ public class Main {
 
         //There are at less two persons with the same
         // firstName among these 10 people?
+        //Count how many distinct values firstName map are in my map
+        int count = (int) personMap.values().stream().distinct().count();
+        System.out.println("Distinct values firstName are " + count + " in Map.");
+
 
         //+Remove from the map person whose firstName is
         // ”Orest” (or other). Print result.
@@ -40,6 +44,7 @@ public class Main {
             }
         }
         System.out.println("Changed Map: " + personMap);
+
 
 
     }
