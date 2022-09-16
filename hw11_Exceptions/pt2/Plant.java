@@ -1,8 +1,6 @@
-package com.softserve.hometasks.hometask1.hw11_Exceptions.pt1;
+package com.softserve.hometasks.hometask1.hw11_Exceptions.pt2;
 
 import java.util.Arrays;
-
-import static java.lang.Enum.valueOf;
 
 /*
 Create a class Plant, which includes

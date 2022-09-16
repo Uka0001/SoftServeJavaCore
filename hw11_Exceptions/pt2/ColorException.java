@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw11_Exceptions.pt1;
+package com.softserve.hometasks.hometask1.hw11_Exceptions.pt2;
 
 public class ColorException extends Throwable {
 
