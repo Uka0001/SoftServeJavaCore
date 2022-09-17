@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw11_Exceptions.pt2;
+package com.softserve.hometasks.hometask1.hw11_Exceptions_done.pt2;
 
 public class TypeException extends Throwable {
 

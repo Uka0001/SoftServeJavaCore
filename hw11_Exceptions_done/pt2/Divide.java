@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw11_Exceptions.pt2;
+package com.softserve.hometasks.hometask1.hw11_Exceptions_done.pt2;
 /*
 Create method div(), which calculates the dividing of two double numbers. In main method input 2 double numbers and call this method. Catch all exceptions.
 Write a method readNumber(int start, int end), that read from console integer number and return it, if it is in the range [start...end].

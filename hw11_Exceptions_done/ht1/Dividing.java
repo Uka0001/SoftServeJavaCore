@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw11_Exceptions.ht1;
+package com.softserve.hometasks.hometask1.hw11_Exceptions_done.ht1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
