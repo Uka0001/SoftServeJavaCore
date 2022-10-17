@@ -1,4 +1,4 @@
-package com.softserve.hometasks.hometask1.hw16_JDBC;
+package com.softserve.hometasks.hometask1.hw16_JDBC_done;
 /*
 * Install SQL Server and launch it (https://dev.mysql.com/downloads/connector/j/)
 Create DB on the serverCREATE DATABASE <db name>;
